@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+	<files>
+		<path>media/clothing/clothingItems/Vest_BulletArmy_Desert.xml</path>
+		<guid>05b5a3b0-bae0-48d9-ae5f-b0104baada6f</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Vest_BulletArmy_Urban.xml</path>
+		<guid>3767233d-5597-4b91-b24b-776d22322eac</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Hat_Army_Desert.xml</path>
+		<guid>23f64bec-2e8c-449a-88a2-622069f2c381</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Hat_Army_Urban.xml</path>
+		<guid>abd1d362-2780-4438-a3d2-423b2213e71e</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Jacket_ArmyCamoUrban.xml</path>
+		<guid>46ab6db7-285a-4baa-b767-52b38209ee9b</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Bag_ALICEpack_Camo_Desert.xml</path>
+		<guid>4fd5b063-164e-4e42-9cea-9f639edf8091</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Bag_ALICEpack_Camo_Desert_RHand.xml</path>
+		<guid>52883d7b-513e-4d7e-bf6d-67793e0ec57e</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Bag_ALICEpack_Camo_Desert_LHand.xml</path>
+		<guid>a7707be5-8aa8-4a28-bfb4-5a7f771d9e8e</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Bag_ALICEpack_Camo_Urban.xml</path>
+		<guid>ae62e88e-4e54-4528-a35e-52dbfe927a46</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Bag_ALICEpack_Camo_Urban_LHand.xml</path>
+		<guid>18a378b4-1dfd-4779-b6e4-08c920d6c62a</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Bag_ALICEpack_Camo_Urban_RHand.xml</path>
+		<guid>b8135574-f657-4560-90cb-52b1517d1f6a</guid>
+	</files>
+</fileGuidTable>

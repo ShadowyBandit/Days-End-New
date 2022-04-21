@@ -1,0 +1,91 @@
+module FireBook
+{
+	imports
+	{
+		Base
+	}
+
+    item Firearm1
+    {
+        NumberOfPages		=	220,
+        Weight				=	0.8,
+        Type				=	Literature,
+        DisplayName			=	Firearms for Beginners,
+        Icon				=	Firearm1,
+        SkillTrained 		= 	Aiming,
+        LvlSkillTrained 	= 	1,
+        NumLevelsTrained 	= 	2,
+        StaticModel 		= 	Book,
+        WorldStaticModel 	= 	BookYellowBrown_Ground,
+    }
+
+	item Firearm2
+    {
+        NumberOfPages		=	260,
+        Weight				=	0.8,
+        Type				=	Literature,
+        DisplayName			=	Intermediate Firearm Techniques,
+        Icon				=	Firearm2,
+        SkillTrained 		= 	Aiming,
+        LvlSkillTrained 	= 	3,
+        NumLevelsTrained 	= 	2,
+        StaticModel 		= 	Book,
+        WorldStaticModel 	= 	BookYellowBrown_Ground,
+    }
+
+	item Firearm3
+    {
+        NumberOfPages		=	300,
+        Weight				=	0.8,
+        Type				=	Literature,
+        DisplayName			=	Advanced Firearm Techniques,
+        Icon				=	Firearm3,
+        SkillTrained 		= 	Aiming,
+        LvlSkillTrained 	= 	5,
+        NumLevelsTrained 	= 	2,
+        StaticModel 		= 	Book,
+        WorldStaticModel 	= 	BookYellowBrown_Ground,
+    }
+
+	item Reloading1
+    {
+        NumberOfPages		=	220,
+        Weight				=	0.8,
+        Type				=	Literature,
+        DisplayName			=	Reloading Techniques for Beginners,
+        Icon				=	Reloading1,
+        SkillTrained 		= 	Reloading,
+        LvlSkillTrained 	= 	1,
+        NumLevelsTrained 	= 	2,
+        StaticModel 		= 	Book,
+        WorldStaticModel 	= 	BookYellowBrown_Ground,
+    }
+
+	item Reloading2
+    {
+        NumberOfPages		=	260,
+        Weight				=	0.8,
+        Type				=	Literature,
+        DisplayName			=	Reloading Techniques for Intermediates,
+        Icon				=	Reloading2,
+        SkillTrained 		= 	Reloading,
+        LvlSkillTrained 	= 	3,
+        NumLevelsTrained 	= 	2,
+        StaticModel 		= 	Book,
+        WorldStaticModel 	= 	BookYellowBrown_Ground,
+    }
+
+	item Reloading3
+    {
+        NumberOfPages		=	300,
+        Weight				=	0.8,
+        Type				=	Literature,
+        DisplayName			=	Advanced Reloading Techniques,
+        Icon				=	Reloading3,
+        SkillTrained 		= 	Reloading,
+        LvlSkillTrained 	= 	5,
+        NumLevelsTrained 	= 	2,
+        StaticModel 		= 	Book,
+        WorldStaticModel 	= 	BookYellowBrown_Ground,
+    }
+}

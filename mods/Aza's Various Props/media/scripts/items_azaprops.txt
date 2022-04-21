@@ -1,0 +1,183 @@
+module AzaProps {
+    imports
+    {
+        Base
+    }
+  	  	item mi17
+    {
+        Type = Normal,
+        DisplayName = Mi17,
+        Weight = 5.00,
+        Icon	=	mi_17,
+		WorldStaticModel = mi_17,
+    }
+
+  	  	item Exclaim
+    {
+        DisplayCategory = Literature,
+		Type	=	Literature,
+        DisplayName = Exclaim,
+        Weight = 5.00,
+        CanBeWrite  =   true,
+        PageToWrite =   10,
+        Icon	=	Exclaim,
+		WorldStaticModel = Exclaim,
+    }
+
+  	  	item Question
+    {
+        DisplayCategory = Literature,
+        Type	=	Literature,
+        DisplayName = Question,
+        Weight = 5.00,
+        CanBeWrite  =   true,
+        PageToWrite =   10,
+        Icon	=	Question,
+		WorldStaticModel = Question,
+    }
+
+  	  	item Wall
+    {
+        DisplayCategory = Literature,
+        Type	=	Literature,
+        DisplayName = Wall,
+        Weight = 5.00,
+        CanBeWrite  =   true,
+        PageToWrite =   10,
+        Icon	=	Wall,
+		WorldStaticModel = Wall,
+    }
+
+	item Hole1
+    {
+        Type	=	Normal,
+        DisplayName = Hole1,
+        Weight = 5.00,
+        Icon	=	Exclaim,
+		WorldStaticModel = Hole1,
+    }
+	
+	item Hole2
+    {
+        Type	=	Normal,
+        DisplayName = Hole2,
+        Weight = 5.00,
+        Icon	=	Exclaim,
+		WorldStaticModel = Hole2,
+    }
+	
+	item Hole3
+    {
+        Type	=	Normal,
+        DisplayName = Hole3,
+        Weight = 5.00,
+        Icon	=	Exclaim,
+		WorldStaticModel = Hole3,
+    }
+
+
+	item Hole1Bigger
+    {
+        Type	=	Normal,
+        DisplayName = Hole1Bigger,
+        Weight = 5.00,
+        Icon	=	Exclaim,
+		WorldStaticModel = Hole1Bigger,
+    }
+	
+	item Hole2Bigger
+    {
+        Type	=	Normal,
+        DisplayName = Hole2Bigger,
+        Weight = 5.00,
+        Icon	=	Exclaim,
+		WorldStaticModel = Hole2Bigger,
+    }
+	
+	item Hole3Bigger
+    {
+        Type	=	Normal,
+        DisplayName = Hole3Bigger,
+        Weight = 5.00,
+        Icon	=	Exclaim,
+		WorldStaticModel = Hole3Bigger,
+    }
+
+	item Grid
+    {
+        Type	=	Normal,
+        DisplayName = Grid,
+        Weight = 5.00,
+        Icon	=	Exclaim,
+		WorldStaticModel = Grid,
+    }
+
+	item Radial120
+    {
+        Type	=	Normal,
+        DisplayName = Radial120,
+        Weight = 5.00,
+        Icon	=	Exclaim,
+		WorldStaticModel = Radial120,
+    }
+
+
+	item Radial75
+    {
+        Type	=	Normal,
+        DisplayName = Radial75,
+        Weight = 5.00,
+        Icon	=	Exclaim,
+		WorldStaticModel = Radial75,
+    }
+
+
+	item Radial30
+    {
+        Type	=	Normal,
+        DisplayName = Radial30,
+        Weight = 5.00,
+        Icon	=	Exclaim,
+		WorldStaticModel = Radial30,
+    }
+
+	item Arrow
+    {
+        Type	=	Normal,
+        DisplayName = Arrow,
+        Weight = 5.00,
+        Icon	=	Exclaim,
+		WorldStaticModel = Arrow,
+    }
+	
+	
+	item Minecraft_BottomBlock_Cobblestone
+    {
+        Type	=	Normal,
+        DisplayName = Minecraft_BottomBlock_Cobblestone,
+        Weight = 5.00,
+        Icon	=	Exclaim,
+		WorldStaticModel = Minecraft_BottomBlock_Cobblestone,
+    }		
+
+	
+	item Minecraft_MiddleBlock_Cobblestone
+    {
+        Type	=	Normal,
+        DisplayName = Minecraft_MiddleBlock_Cobblestone,
+        Weight = 5.00,
+        Icon	=	Exclaim,
+		WorldStaticModel = Minecraft_MiddleBlock_Cobblestone,
+    }		
+
+	
+	item Minecraft_TopBlock_Cobblestone
+    {
+        Type	=	Normal,
+        DisplayName = Minecraft_TopBlock_Cobblestone,
+        Weight = 5.00,
+        Icon	=	Exclaim,
+		WorldStaticModel = Minecraft_TopBlock_Cobblestone,
+    }		
+	
+}

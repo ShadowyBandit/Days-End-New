@@ -1,0 +1,10 @@
+ItemName_PTBR = {
+    ItemName_Base.JarWater = "Pote com Água",
+    ItemName_Base.PetrolCanWater = "Galão de Combustível com Água",
+    ItemName_Base.PopCanWater = "Lata de Refrigerante com Água",
+    ItemName_Base.PopCan2Water = "Lata de Refrigerante com Água",
+    ItemName_Base.PopCan3Water = "Lata de Refrigerante com Água",
+    ItemName_Base.RoastingPanWater = "Forma Retangular com Água",
+    ItemName_Base.TinCanWater = "Lata com Água",
+    ItemName_Base.WaterDishFull = "Tigela de Água",
+}

@@ -1,0 +1,5 @@
+Items_ES = {
+	ItemName_Base.SlingA = "Portafus�l",
+	ItemName_Base.SlingAalt = "Portafus�l",
+	ItemName_Base.SlingAalt2 = "Portafus�l",
+}

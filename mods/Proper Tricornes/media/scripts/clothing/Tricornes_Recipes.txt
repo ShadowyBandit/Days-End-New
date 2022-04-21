@@ -1,0 +1,141 @@
+module Tricornes {
+	imports {
+		Base
+	}
+
+	recipe Convert to Tricorne
+  	{
+		Hat_Cowboy,
+        Thread=5,
+        keep Needle,
+
+		Result:Fancy_Tricorne,
+		Time:300.0,
+  	}
+
+	recipe Convert to Cowboy Hat
+  	{
+		Fancy_Tricorne,
+        Thread=5,
+        keep Needle,
+
+		Result:Hat_Cowboy,
+		Time:300.0,
+  	}
+
+	recipe Bleach Jeans
+  	{
+		Trousers_Denim,
+		Bleach,
+
+		Result:Trousers_WhiteTEXTURE,
+		
+		Time:300.0,
+		NeedToBeLearn:true,
+  	}
+
+	recipe Bleach Denim Jeans
+  	{
+		TrousersMesh_DenimLight,
+		Bleach,
+
+		Result:Trousers_WhiteTEXTURE,
+		
+		Time:300.0,
+		NeedToBeLearn:true,
+  	}
+
+	recipe Create Redcoat
+  	{
+		JacketLong_Random,
+		HairDyeRed=10,
+
+		Result:JacketLong_Santa,
+		Time:300.0,
+		NeedToBeLearn:true,
+  	}
+
+	recipe Create Red Dye
+  	{
+		RedRadish,
+		ChAmmonia,
+		keep MortarPestle,
+
+		Result: HairDyeRed=1,
+		Time:300.0,
+        SkillRequired:Cooking=6,
+		NeedToBeLearn:true,
+  	}
+
+	recipe Create Blue Dye
+  	{
+		Violets,
+		ChAmmonia,
+		keep MortarPestle,
+
+		Result: HairDyeBlue=1,
+		Time:300.0,
+        SkillRequired:Cooking=6,
+		NeedToBeLearn:true,
+  	}
+
+	recipe Create Green Dye
+  	{
+		PlantainCataplasm,
+		ChAmmonia,
+		keep MortarPestle,
+
+		Result: HairDyeGreen=1,
+		Time:300.0,
+        SkillRequired:Cooking=6,
+		NeedToBeLearn:true,
+  	}
+
+	recipe Create Yellow Dye
+  	{
+		Mustard,
+		ChAmmonia,
+
+		Result: HairDyeYellow=1,
+		Time:300.0,
+        SkillRequired:Cooking=6,
+		NeedToBeLearn:true,
+  	}
+
+	recipe Create Unicorn Headband
+  	{
+		HairDyeRed,
+		HairDyeBlue,
+		HairDyeGreen,
+		HairDyeYellow,
+		RippedSheets=10,
+		CottonBalls=2,
+		keep Needle,
+
+		Result: Unicorn_Headband,
+		Time:300.0,
+        SkillRequired:Tailoring=8,
+  	}
+	
+	item RedcoatTutorial
+	{
+		Weight = 0.1,
+		Type = Literature,
+		DisplayName = Uniforms of the 18th Century,
+		Icon = MagazineWelding1,
+		TeachedRecipes = Bleach Jeans; Bleach Denim Jeans; Create Redcoat,
+		ReplaceOnUse = RedcoatTutorial,
+		StaticModel = Magazine,
+	}
+	
+	item DIY
+	{
+		Weight = 0.1,
+		Type = Literature,
+		DisplayName = DIY - Dye it yourself,
+		Icon = MagazineWelding2,
+		TeachedRecipes = Create Red Dye; Create Blue Dye; Create Green Dye; Create Yellow Dye,
+		ReplaceOnUse = DIY,
+		StaticModel = Magazine,
+	}
+}		

@@ -1,0 +1,421 @@
+module Base
+{
+	item TransPrideFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_1,
+		DisplayName	=	Trans Pride Flag,
+		Icon	=	Flag,
+	}	
+
+	item GayPrideFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_3,
+		DisplayName	=	Gay Pride Flag,
+		Icon	=	Flag,
+	}	
+
+	item BiPrideFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_5,
+		DisplayName	=	Bi Pride Flag,
+		Icon	=	Flag,
+	}	
+
+	item LesbianPrideFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_7,
+		DisplayName	=	Lesbian Pride Flag,
+		Icon	=	Flag,
+	}	
+
+	item NonBinaryPrideFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_11,
+		DisplayName	=	Non Binary Pride Flag,
+		Icon	=	Flag,
+	}	
+
+	item AsexualPrideFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_13,
+		DisplayName	=	Asexual Pride Flag,
+		Icon	=	Flag,
+	}	
+
+	item PanPrideFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_13,
+		DisplayName	=	Pan Pride Flag,
+		Icon	=	Flag,
+	}	
+
+	item RussianFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_15,
+		DisplayName	=	Russian Flag,
+		Icon	=	Flag,
+	}	
+
+	item WeedFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_17,
+		DisplayName	=	Weed Flag,
+		Icon	=	Flag,
+	}	
+	
+	item NoStepOnSnekFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_19,
+		DisplayName	=	No Step On Snek Flag,
+		Icon	=	Flag,
+	}	
+
+	item HyruleFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_21,
+		DisplayName	=	Hyrule Flag,
+		Icon	=	Flag,
+	}	
+
+	item MushroomKingdomFlagRed
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_23,
+		DisplayName	=	Mushroom Kingdom Flag Red,
+		Icon	=	Flag,
+	}	
+
+	item MushroomKingdomFlagGreen
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_25,
+		DisplayName	=	Mushroom Kingdom Flag Green,
+		Icon	=	Flag,
+	}	
+
+	item JollyRogerFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_27,
+		DisplayName	=	Jolly Roger Flag,
+		Icon	=	Flag,
+	}		
+
+	item NCRFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_29,
+		DisplayName	=	NCR Flag,
+		Icon	=	Flag,
+	}	
+
+	item DarkBrotherhoodFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_31,
+		DisplayName	=	Dark Brotherhood Flag,
+		Icon	=	Flag,
+	}	
+
+	item UKFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_33,
+		DisplayName	=	UK Flag,
+		Icon	=	Flag,
+	}	
+	
+	item FranceFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_35,
+		DisplayName	=	France Flag,
+		Icon	=	Flag,
+	}	
+
+	item FranceFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_35,
+		DisplayName	=	France Flag,
+		Icon	=	Flag,
+	}	
+
+	item FranceFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_35,
+		DisplayName	=	France Flag,
+		Icon	=	Flag,
+	}	
+
+	item CanadaFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_37,
+		DisplayName	=	CanadaFlag,
+		Icon	=	Flag,
+	}	
+
+	item SouthKoreaFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_39,
+		DisplayName	=	South Korea Flag,
+		Icon	=	Flag,
+	}	
+
+	item DumbBitchPrideFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_41,
+		DisplayName	=	Dumb Bitch Pride Flag,
+		Icon	=	Flag,
+	}	
+
+	item AustraliaFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_43,
+		DisplayName	=	Australia Flag,
+		Icon	=	Flag,
+	}	
+
+	item ConanFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_45,
+		DisplayName	=	Conan Flag,
+		Icon	=	Flag,
+	}	
+
+	item QuebecFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_47,
+		DisplayName	=	Quebec Flag,
+		Icon	=	Flag,
+	}	
+
+	item ISFlag
+	{
+		Weight	=	0.2,	
+		Type	=	Moveable,
+		WorldObjectSprite =	aza_flags1_49,
+		DisplayName	=	IS Flag,
+		Icon	=	Flag,
+	}	
+	
+recipe Make Trans Pride Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:TransPrideFlag,
+	}
+
+	
+recipe Make Gay Pride Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:GayPrideFlag,
+	}
+	
+recipe Make Bi Pride Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:BiPrideFlag,
+	}
+	
+recipe Make Lesbian Pride Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:LesbianPrideFlag,
+	}
+	
+recipe Make Non Binary Pride Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:NonBinaryPrideFlag,
+	}
+	
+recipe Make Asexual Pride Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:AsexualPrideFlag,
+	}
+	
+recipe Make Pan Pride Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:PanPrideFlag,
+	}
+	
+recipe Make Russian Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:TransPrideFlag,
+	}
+	
+recipe Make Weed Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:WeedFlag,
+	}
+	
+recipe Make No Step On Snek Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:NoStepOnSnekFlag,
+	}
+	
+recipe Make Hyrule Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:HyruleFlag,
+	}
+	
+recipe Make MushroomK ingdom Flag Red
+	{
+	keep Needle,
+	Sheet=2,
+	Result:MushroomKingdomFlagRed,
+	}
+	
+recipe Make Mushroom Kingdom Flag Green
+	{
+	keep Needle,
+	Sheet=2,
+	Result:MushroomKingdomFlagGreen,
+	}
+	
+recipe Make Jolly Roger Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:JollyRogerFlag,
+	}
+	
+recipe Make NCR Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:NCRFlag,
+	}
+	
+recipe Make Dark Brotherhood Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:DarkBrotherhoodFlag,
+	}
+	
+recipe Make UK Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:UKFlag,
+	}
+	
+recipe Make France Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:FranceFlag,
+	}
+	
+recipe Make Canada Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:CanadaFlag,
+	}
+	
+recipe Make South Korea Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:SouthKoreaFlag,
+	}
+	
+recipe Make Dumb Bitch Pride Flag uwu
+	{
+	keep Needle,
+	Sheet=2,
+	Result:DumbBitchPrideFlag,
+	}
+	
+recipe Make Australia Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:AustraliaFlag,
+	}
+	
+recipe Make Conan Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:ConanFlag,
+	}
+	
+recipe Make Quebec Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:QuebecFlag,
+	}
+	
+recipe Make IS Flag
+	{
+	keep Needle,
+	Sheet=2,
+	Result:ISFlag,
+	}
+}

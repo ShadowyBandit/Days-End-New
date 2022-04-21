@@ -1,0 +1,60 @@
+module Base
+{
+	recipe Butter Dog Food
+		{
+			DogfoodOpen,
+			Butter,
+			
+			Result:ButteredDogFood,
+			Time:20.0,
+			Category:Cooking,
+			OnGiveXP:Recipe.OnGiveXP.Cooking3,
+		}
+	
+	recipe Make Whiskey on the Ruffs
+		{
+			DogfoodOpen,
+			WhiskeyFull,
+			Bowl,
+			
+			Result:WhiskeyRuffs,
+			Time:30.0,
+			Category:Cooking,
+			OnGiveXP:Recipe.OnGiveXP.Cooking3,
+		}
+	
+	recipe Pour Dog Food Into A Bowl
+		{
+			DogfoodOpen,
+			Bowl,
+			
+			Result:DogBowl,
+			Time:20.0,
+			Category:Cooking,
+			OnGiveXP:Recipe.OnGiveXP.Cooking3,
+		}
+	
+	recipe Garnish Dog Food With Paper
+		{
+			DogfoodOpen,
+			Bowl,
+			ToiletPaper/PaperNapkins/Doodle/SheetPaper2,
+			
+			Result:DogFoodPaper,
+			Time:25.0,
+			Category:Cooking,
+			OnGiveXP:Recipe.OnGiveXP.Cooking3,
+		}
+		
+	recipe Garnish Dog Food With Paper
+		{
+			DogfoodOpen,
+			Bowl,
+			keep Notebook/Journal/Magazine/TVMagazine/HottieZ/Newspaper/ComicBook,
+			
+			Result:DogFoodPaper,
+			Time:25.0,
+			Category:Cooking,
+			OnGiveXP:Recipe.OnGiveXP.Cooking3,
+		}
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\BackPacks\ALICE_Pack_LHand.X</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\BackPacks\ALICE_Pack_LHand.X</m_FemaleModel>
+	<m_GUID>18a378b4-1dfd-4779-b6e4-08c920d6c62a</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\Bag_ALICEpack_Camo_Urban</textureChoices>
+</clothingItem>

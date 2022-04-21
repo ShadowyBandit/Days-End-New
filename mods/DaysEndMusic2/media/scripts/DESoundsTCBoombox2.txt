@@ -1,0 +1,633 @@
+module Tsarcraft
+{
+	sound CassetteATribeCalledQuestExcursions
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/A Tribe Called Quest - Excursions.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteAlphavilleForeverYoung
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Alphaville - Forever Young.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteArianneKommSusserTod
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Arianne - Komm Susser Tod.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBauhausAllWeEverWantedWasEverything
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bauhaus - All We Ever Wanted Was Everything.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBlackFlagRiseAbove
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Black Flag - Rise Above.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBoneyMRasputin
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Boney M. - Rasputin.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBootsRandolphYaketySax
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Boots Randolph - Yakety Sax.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteCharlieDanielsBandTheDevilWentDowntoGeorgia
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Charlie Daniels Band - The Devil Went Down to Georgia.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteChokingVictimApplePie&PoliceState
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Choking Victim - Apple Pie & Police State.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteChokingVictimInfested
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Choking Victim - Infested.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDasDeutschlandlied
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Das Deutschlandlied.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDeadKennedysIFoughttheLaw
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Dead Kennedys - I Fought the Law.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDefLeppardPourSomeSugarOnMe
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Def Leppard - Pour Some Sugar On Me.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDerErEtYndigtLand
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Der Er Et Yndigt Land.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDesteaptateRomane!
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Desteapta-te Romane!.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDionDiMucciTheWanderer
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Dion DiMucci - The Wanderer.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDouglasRobsonWhirlwindsofDanger
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Douglas Robson - Whirlwinds of Danger.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDuGamlaDuFria
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Du Gamla Du Fria.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteEricBogleAndtheBandPlayedWaltzingMatilda
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Eric Bogle - And the Band Played Waltzing Matilda.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteEtienneMehulChantdudepart
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Etienne Mehul - Chant du depart.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteFallHarvestDancingInTheMoonlight
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Fall Harvest - Dancing In The Moonlight.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteFrankSinatraFlyMeToTheMoon
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Frank Sinatra - Fly Me To The Moon.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteGeorgesMoustakiSansLaNommer(LaRevolutionPermanente)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Georges Moustaki - Sans La Nommer (La Revolution Permanente).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteGodSavetheQueen
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/God Save the Queen.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteHall&OatesOutofTouch
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Hall & Oates - Out of Touch.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteHetWilhelmus
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Het Wilhelmus.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteHimnoNacionalMexicano
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Himno Nacional Mexicano.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteIceCubeItWasAGoodDay
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Ice Cube - It Was A Good Day.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteIsaacDunaevskyWideIsMyMotherland
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Isaac Dunaevsky - Wide Is My Motherland.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteJeffersonAirplanesSomebodytoLove
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Jefferson Airplanes - Somebody to Love.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteJoyDivisionDisorder
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Joy Division - Disorder.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteJuliusFucikEntryoftheGladiators
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Julius Fucik - Entry of the Gladiators.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteLaBrabanconne
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/La Brabanconne.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteLaMarseillaise
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/La Marseillaise.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteLedZepplinImmigrantSong
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Led Zepplin - Immigrant Song.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteLijepaNasaDomovino
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Lijepa Nasa Domovino.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteLoitumaIevanPolkka
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Loituma - Ievan Polkka.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteLoverboyWorkingfortheWeekend
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Loverboy - Working for the Weekend.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteLunizIGot5OnIt
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Luniz - I Got 5 On It.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMartyRobbinsAin'tIRight
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Marty Robbins - Ain't I Right.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMazurekDabrowskiego
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Mazurek Dabrowskiego.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMikiMatsubaraStayWithMe
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Miki Matsubara - Stay With Me.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteNWAFukDaPolice
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/N.W.A. - Fuk Da Police.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteNewOrderBlueMonday
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/New Order - Blue Monday.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteNirvanaSomethingInTheWay
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Nirvana - Something In The Way.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteNoDoubtSpiderwebs
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/No Doubt - Spiderwebs.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteOCanada
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/O Canada.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePatBenetarHitMeWithYourBestShot
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Pat Benetar - Hit Me With Your Best Shot.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePixiesDebaser
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Pixies - Debaser.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePixiesTheHappening
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Pixies - The Happening.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRichardWagnerRideofTheValkyries
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Richard Wagner - Ride of The Valkyries.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRobZombieDragula
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Rob Zombie - Dragula.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSirMixALotBabyGotBack
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sir Mix-A-Lot - Baby Got Back.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteStateAnthemoftheSovietUnion
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/State Anthem of the Soviet Union.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteStevieBDreaminOfLove
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Stevie B - Dreamin Of Love.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTalkingHeadsPsychoKiller
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Talking Heads - Psycho Killer.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheAnimalsHouseoftheRisingSun
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Animals - House of the Rising Sun.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheEcstasyofGoldEnnioMorricone
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Ecstasy of Gold - Ennio Morricone.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheProclaimersI'mGonnaBe(500Miles)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Proclaimers - I'm Gonna Be (500 Miles).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheRollingStonesPaintItBlack
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Rolling Stones - Paint It Black.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheStarSpangledBanner
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Star-Spangled Banner.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteVeraLynnWe'llMeetAgain
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Vera Lynn - We'll Meet Again.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteWuTangClanTearz
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Wu-Tang Clan - Tearz.ogg,
+			distanceMax = 75,
+		}
+	}
+}

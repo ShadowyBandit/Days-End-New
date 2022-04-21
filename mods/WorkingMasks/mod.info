@@ -1,0 +1,17 @@
+name=Working Masks
+id=WorkingMasks
+description=This Mod attempts to make masks (such as gas masks) affect the sickness gain from corpses.
+description=
+description=Condition of the mask is considered.
+description=
+description=Gas Masks offer full protection at 100% condition.
+description=Other specific masks as surgical masks half protection at 100% condition.
+description=Lastly, items such as Balaclavas, Bandanas, etc. offer 25% protection at full condition, if they cover the mouth and Nose.
+description=
+description=Currently supported mods:
+description=Authentic Z, Shark's Law Enforcement Overhaul, Shark and Peach's Military Uniform Improvements, Brita's Armor Pack, Swatpack, ADVANCED GEAR, Paw Low Loot, Undead Survivor, Scrap Armor
+description=
+description=Feel free to suggest other masks to support or balance changes.
+description=
+description=Should be safe to be added to or removed from an ongoing game as no parts are being modified.
+poster=poster.png

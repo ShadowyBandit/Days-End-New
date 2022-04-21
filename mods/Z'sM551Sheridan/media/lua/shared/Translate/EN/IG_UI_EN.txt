@@ -1,0 +1,25 @@
+IG_UI_EN = {
+    IGUI_VehicleNamem551 = "M551",
+	
+	IGUI_VehiclePartSeatFrontLeft = "Driver's Seat",
+	IGUI_VehiclePartSeatFrontRight = "Commander's Seat",
+	IGUI_VehiclePartSeatRearLeft = "Loader's Seat",
+	IGUI_VehiclePartSeatRearRight = "Gunner's Seat",
+	
+	IGUI_VehiclePartTireFrontLeft = "Left Road Wheels",
+	IGUI_VehiclePartTireFrontRight = "Right Road Wheels",
+	IGUI_VehiclePartTireRearLeft = "Left Sprocket",
+	IGUI_VehiclePartTireRearRight = "Right Sprocket",
+	
+	IGUI_VehiclePartDoorFrontLeft = "Driver's Hatch",
+	IGUI_VehiclePartDoorFrontRight = "Commander's Hatch",
+	
+	IGUI_VehiclePartSidePanel = "Engine Access Panel",
+	
+	IGUI_VehiclePartMilRadio = "Tank Radio",
+	
+	IGUI_SeatFrontLeft = "Driver",
+	IGUI_SeatFrontRight = "Commander",
+	IGUI_SeatRearLeft = "Loader",
+	IGUI_SeatRearRight = "Gunner",
+}

@@ -1,0 +1,6 @@
+name=Aza's Flags
+id=AzasFlags
+description=Adds a bunch of new flags!
+pack=azasflags
+tiledef=aza_flags 707
+poster=poster.png

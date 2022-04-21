@@ -1,0 +1,128 @@
+module Base {
+    model mi_17
+    {
+        mesh = WorldItems/mi_17,
+        texture = WorldItems/mi17,
+        scale = 0.01,
+    }
+
+    model Exclaim
+    {
+        mesh = WorldItems/Exclaim,
+        texture = WorldItems/Exclaim,
+        scale = 0.1,
+    }
+
+    model Question
+    {
+        mesh = WorldItems/Question,
+        texture = WorldItems/Question,
+        scale = 0.1,
+    }
+	
+    model Wall
+    {
+        mesh = WorldItems/Wall,
+        texture = WorldItems/Wall,
+        scale = 0.1,
+    }
+
+    model Hole1
+    {
+        mesh = WorldItems/Hole1,
+        texture = WorldItems/Hole1,
+        scale = 0.1,
+    }
+
+    model Hole2
+    {
+        mesh = WorldItems/Hole1,
+        texture = WorldItems/Hole2,
+        scale = 0.1,
+    }
+
+    model Hole3
+    {
+        mesh = WorldItems/Hole1,
+        texture = WorldItems/Hole3,
+        scale = 0.1,
+    }
+
+
+    model Hole1Bigger
+    {
+        mesh = WorldItems/Hole1Bigger,
+        texture = WorldItems/Hole1,
+        scale = 0.1,
+    }
+
+    model Hole2Bigger
+    {
+        mesh = WorldItems/Hole1Bigger,
+        texture = WorldItems/Hole2,
+        scale = 0.1,
+    }
+
+    model Hole3Bigger
+    {
+        mesh = WorldItems/Hole1Bigger,
+        texture = WorldItems/Hole3,
+        scale = 0.1,
+    }
+	
+    model Grid
+    {
+        mesh = WorldItems/Grid,
+        texture = WorldItems/Grid,
+        scale = 0.1,
+    }
+
+    model Radial120
+    {
+        mesh = WorldItems/Grid,
+        texture = WorldItems/Radial120,
+        scale = 0.1,
+    }
+
+    model Radial75
+    {
+        mesh = WorldItems/Grid,
+        texture = WorldItems/Radial75,
+        scale = 0.1,
+    }
+
+    model Radial30
+    {
+        mesh = WorldItems/Grid,
+        texture = WorldItems/Radial30,
+        scale = 0.1,
+    }
+
+    model Arrow
+    {
+        mesh = WorldItems/Arrow,
+        texture = WorldItems/Arrow,
+        scale = 0.1,
+    }
+		
+    model Minecraft_BottomBlock_Cobblestone
+    {
+        mesh = WorldItems/Minecraft_BottomBlock,
+        texture = WorldItems/Minecraft_Cobblestone,
+        scale = 0.1,
+    }
+		
+    model Minecraft_MiddleBlock_Cobblestone
+    {
+        mesh = WorldItems/Minecraft_MiddleBlock,
+        texture = WorldItems/Minecraft_Cobblestone,
+        scale = 0.1,
+    }
+		
+    model Minecraft_TopBlock_Cobblestone
+    {
+        mesh = WorldItems/Minecraft_TopBlock,
+        texture = WorldItems/Minecraft_Cobblestone,
+        scale = 0.1,
+    }
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+	<files>
+		<path>media/clothing/clothingItems/Fancy_Tricorne.xml</path>
+		<guid>1bba0569-a1b4-45e9-8314-6cc3ed38ba54</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Unicorn_Headband.xml</path>
+		<guid>6a5d1dea-7c8b-4a11-9356-6925d54bf2cb</guid>
+	</files>
+</fileGuidTable>

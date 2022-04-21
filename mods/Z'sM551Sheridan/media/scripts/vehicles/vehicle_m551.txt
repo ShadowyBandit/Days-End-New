@@ -1,0 +1,384 @@
+module Base
+{
+	model Vehicles_m551
+	{
+		mesh = vehicles/Vehicles_m551|Hull,
+		shader = vehicle_multiuv,
+		invertX = FALSE,
+		scale = 0.5495,
+	}
+	vehicle m551
+	{
+		mechanicType = 2,
+		offRoadEfficiency = 0,
+		engineRepairLevel = 5,
+		playerDamageProtection = 10,
+
+		model
+		{
+			file = Vehicles_m551,
+			scale = 1.8200,
+			offset = 0.0000 0.0000 0.0000,
+		}
+
+		skin
+		{
+			texture = Vehicles/vehicle_m511_base_desertcamo,
+		}
+
+		skin
+		{
+			texture = Vehicles/vehicle_m511_base_greencamo,
+		}
+
+		skin
+		{
+			texture = Vehicles/vehicle_m511_base_grey,
+		}
+
+		skin
+		{
+			texture = Vehicles/vehicle_m511_base_urbancamo,
+		}
+
+		textureMask = Vehicles/vehicle_m511_mask,
+		textureLights = Vehicles/vehicle_m511_lights,
+		textureDamage1Overlay = Vehicles/vehicle_m511_blood,
+		textureDamage2Overlay = Vehicles/vehicle_m511_blood,
+		textureDamage1Shell = Vehicles/vehicle_m511_damage1,
+		textureDamage2Shell = Vehicles/vehicle_m511_damage2,
+		textureRust = Vehicles/vehicle_m511_rust,
+
+		sound
+		{
+			engine = VehicleEngineVan,
+			engineStart = VehicleEngineVan,
+			engineTurnOff = VehicleEngineVan,
+			ignitionFail = VehicleIgnitionFailVan,
+		}
+
+		extents = 1.5934 1.0989 3.4615,
+		mass = 2000,
+		physicsChassisShape = 1.5934 1.0989 3.4615,
+		centerOfMassOffset = 0.0000 0.7088 -0.0055,
+		shadowExtents = 1.8775 3.2019,
+		shadowOffset = 0.0000 -0.0006,
+		engineForce = 6000,
+		engineQuality = 10,
+		engineLoudness = 110,
+		maxSpeed = 30f,
+		brakingForce = 0.01,
+		rollInfluence = 0f,
+		steeringIncrement = 2,
+		steeringClamp = 2,
+		suspensionStiffness = 10,
+		suspensionCompression = 100000,
+		suspensionDamping = 100000,
+		maxSuspensionTravelCm = 1000,
+		suspensionRestLength = 1f,
+		wheelFriction = 1f,
+		frontEndHealth = 1,
+		rearEndHealth = 1,
+		seats = 4,
+		gearRatioCount = 4,
+		gearRatioR = 0.5,
+		gearRatio1 = 0.5,
+		gearRatio2 = 0.3,
+		gearRatio3 = 0.2,
+		gearRatio4 = 0.1,
+
+		wheel FrontLeft
+		{
+			front = true,
+			offset = 0.1011 0.1593 0.1978,
+			radius = 0.2f,
+			width = 1f,
+		}
+
+		wheel FrontRight
+		{
+			front = true,
+			offset = -0.1011 0.1593 0.1978,
+			radius = 0.2f,
+			width = 1f,
+		}
+
+		wheel RearLeft
+		{
+			front = false,
+			offset = 0.1011 0.1593 -0.1978,
+			radius = 0.2f,
+			width = 1f,
+		}
+
+		wheel RearRight
+		{
+			front = false,
+			offset = -0.1011 0.1593 -0.1978,
+			radius = 0.2f,
+			width = 1f,
+		}
+
+		template = PassengerSeat4,
+
+		passenger FrontLeft
+		{
+			position inside
+			{
+				offset = 0.0000 0.4560 0.9615,
+				rotate = 0.0000 0.0000 0.0000,
+			}
+
+			position outside
+			{
+				offset = 0.0000 0.0000 1.8242,
+				rotate = 0.0000 0.0000 0.0000,
+				area = SeatFrontLeft,
+			}
+		}
+
+		passenger FrontRight
+		{
+			position inside
+			{
+				offset = -0.2637 0.9505 -0.1758,
+				rotate = 0.0000 0.0000 0.0000,
+			}
+
+			position outside
+			{
+				offset = -0.9121 0.0000 -0.1264,
+				rotate = 0.0000 0.0000 0.0000,
+				area = SeatFrontRight,
+			}
+		}
+
+		passenger RearLeft
+		{
+			position inside
+			{
+				offset = 0.2912 0.8352 -0.0879,
+				rotate = 0.0000 0.0000 0.0000,
+			}
+
+			position outside
+			{
+			}
+		}
+
+		passenger RearRight
+		{
+			position inside
+			{
+				offset = 0.2033 0.7418 0.4066,
+				rotate = 0.0000 0.0000 0.0000,
+			}
+
+			position outside
+			{
+			}
+		}
+
+		area Engine
+		{
+			xywh = 0.0000 -1.1593 1.7802 1.4066,
+		}
+
+		area TruckBed
+		{
+			xywh = 0.0000 -1.1593 1.7802 1.4066,
+		}
+
+		area SeatFrontLeft
+		{
+			xywh = 0.0000 1.8626 0.8791 0.5495,
+		}
+
+		area SeatFrontRight
+		{
+			xywh = -0.9341 -0.1374 0.5495 0.5495,
+		}
+
+		area GasTank
+		{
+			xywh = 0.0000 -1.1593 1.7802 1.4066,
+		}
+
+		area TireFrontLeft
+		{
+			xywh = 0.6868 0.0879 0.4835 2.1978,
+		}
+
+		area TireFrontRight
+		{
+			xywh = -0.6868 0.0879 0.4835 2.1978,
+		}
+
+		area TireRearLeft
+		{
+			xywh = 0.6868 -1.4945 0.4835 0.4835,
+		}
+
+		area TireRearRight
+		{
+			xywh = -0.6868 -1.4945 0.4835 0.4835,
+		}
+
+		template = Trunk/part/TruckBedOpen,
+        part TruckBedOpen
+        {
+            container
+            {
+                capacity = 100,
+            }
+        }
+
+		template = Seat/part/SeatFrontLeft,
+		template = Seat/part/SeatFrontRight,
+		template = Seat/part/SeatRearLeft,
+		template = Seat/part/SeatRearRight,
+
+		part Seat*
+		{
+			table install
+			{
+				skills = Mechanics:2,
+				recipes = Armor Mechanics,
+			}
+
+			table uninstall
+			{
+				skills = Mechanics:2,
+				recipes = Armor Mechanics,
+			}
+		}
+
+		part SeatRearLeft
+		{
+			table install
+			{
+				area = SeatFrontLeft,
+			}
+
+			table uninstall
+			{
+				area = SeatFrontLeft,
+			}
+		}
+
+		part SeatRearRight
+		{
+			table install
+			{
+				area = SeatFrontRight,
+			}
+
+			table uninstall
+			{
+				area = SeatFrontRight,
+			}
+		}
+
+		template = GasTank,
+
+		part GasTank
+		{
+			install
+			{
+				skills = Mechanics:7,
+				recipes = Armor Mechanics,
+			}
+
+			uninstall
+			{
+				skills = Mechanics:7,
+				recipes = Armor Mechanics,
+			}
+		}
+        
+        template = Turret,
+		template = Battery,
+		template = Engine,
+		template = SidePanel,
+
+		part PassengerCompartment
+		{
+			category = nodisplay,
+
+			lua
+			{
+				update = Vehicles.Update.PassengerCompartment,
+			}
+		}
+
+		template = Door/part/DoorFrontLeft,
+		template = Door/part/DoorFrontRight,
+
+		part Door*
+		{
+			table install
+			{
+				recipes = Armor Mechanics,
+			}
+
+			table uninstall
+			{
+				recipes = Armor Mechanics,
+			}
+		}
+
+		template = Tire,
+
+		part Tire*
+		{
+			model InflatedTirePlusWheel
+			{
+				file = Vehicles_WheelGone,
+			}
+		}
+
+		template = Brake,
+
+		part Brake*
+		{
+			table install
+			{
+				skills = Mechanics:6,
+				recipes = Armor Mechanics,
+			}
+
+			table uninstall
+			{
+				skills = Mechanics:6,
+				recipes = Armor Mechanics,
+			}
+		}
+
+		template = Suspension,
+
+		part Suspension*
+		{
+			table install
+			{
+				skills = Mechanics:6,
+				recipes = Armor Mechanics,
+			}
+
+			table uninstall
+			{
+				skills = Mechanics:6,
+				recipes = Armor Mechanics,
+			}
+		}
+
+		template = MilRadio,
+		template = Headlight,
+
+		attachment trailer
+		{
+			offset = 0.0000 0.2198 -1.6758,
+			rotate = 0.0000 0.0000 0.0000,
+			zoffset = -1.0000,
+		}
+	}
+}

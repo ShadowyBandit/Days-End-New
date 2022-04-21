@@ -1,0 +1,304 @@
+module ServerProps
+{
+	imports
+	{
+		Base
+	}
+
+	item HumveeGreenL
+	{
+		WeightReduction    	=    100,
+		Weight    		=    50,
+		Type    		=    Container,
+		Capacity    		=    800,
+		DisplayName    		=    Abandoned Humvee,
+		Icon			=    HumveeGreenL,
+		ResizeWorldIcon 	=    1.0,
+	}
+
+	item HumveeGreenR
+	{
+		WeightReduction    	=    100,
+		Weight    		=    50,
+		Type    		=    Container,
+		Capacity    		=    800,
+		DisplayName    		=    Abandoned Humvee,
+		Icon			=    HumveeGreenR,
+		ResizeWorldIcon 	=    1.0,
+	}
+
+	item HumveeGreyL
+	{
+		WeightReduction    	=    100,
+		Weight    		=    50,
+		Type    		=    Container,
+		Capacity    		=    800,
+		DisplayName    		=    Abandoned Humvee,
+		Icon			=    HumveeGreyL,
+		ResizeWorldIcon 	=    1.0,
+	}
+
+	item HumveeGreyR
+	{
+		WeightReduction    	=    100,
+		Weight    		=    50,
+		Type    		=    Container,
+		Capacity    		=    800,
+		DisplayName    		=    Abandoned Humvee,
+		Icon			=    HumveeGreyR,
+		ResizeWorldIcon 	=    1.0,
+	}
+
+	item HumveeTanL
+	{
+		WeightReduction    	=    100,
+		Weight    		=    50,
+		Type    		=    Container,
+		Capacity    		=    800,
+		DisplayName    		=    Abandoned Humvee,
+		Icon			=    HumveeTanL,
+		ResizeWorldIcon 	=    1.0,
+	}
+
+	item HumveeTanR
+	{
+		WeightReduction    	=    100,
+		Weight    		=    50,
+		Type    		=    Container,
+		Capacity    		=    800,
+		DisplayName    		=    Abandoned Humvee,
+		Icon			=    HumveeTanR,
+		ResizeWorldIcon 	=    1.0,
+	}
+
+	item USAFParachuteL
+	{
+		Weight			=    7,
+		Type			=    Normal,
+		DisplayName		=    Parachute,
+		Icon			=    USAFParachuteL,
+		ResizeWorldIcon		=    1.0,
+	}
+
+	item USAFParachuteR
+	{
+		Weight			=    7,
+		Type			=    Normal,
+		DisplayName		=    Parachute,
+		Icon			=    USAFParachuteR,
+		ResizeWorldIcon		=    1.0,
+	}
+
+	item USAFAirdropGreen
+	{
+		WeightReduction    	=    100,
+		Weight    		=    50,
+		Type    		=    Container,
+		Capacity    		=    500,
+		DisplayName    		=    USAF Airdrop,
+		Icon			=    USAFAirdropGreen,
+		ResizeWorldIcon 	=    1.0,
+	}
+
+	item USAFAirdropGrey
+	{
+		WeightReduction    	=    100,
+		Weight    		=    50,
+		Type    		=    Container,
+		Capacity    		=    500,
+		DisplayName    		=    USAF Airdrop,
+		Icon    		=    USAFAirdropGrey,
+		ResizeWorldIcon 	=    1.0,
+	}
+
+	item USAFAirdropBlue
+	{
+		WeightReduction    	=    100,
+		Weight    		=    50,
+		Type    		=    Container,
+		Capacity    		=    500,
+		DisplayName    		=    USAF Airdrop,
+		Icon    		=    USAFAirdropBlue,
+		ResizeWorldIcon 	=    1.0,
+		}
+
+	item USAFCaseGreen
+	{
+		WeightReduction    	=    50,
+		Weight    		=    10,
+		Type    		=    Container,
+		Capacity    		=    100,
+		DisplayName    		=    USAF Green Case,
+		Icon    		=    USAFCaseGreen,
+		ResizeWorldIcon 	=    1.0,
+		RequiresEquippedBothHands 	= true,
+	}
+
+	item USAFCaseGrey
+	{
+		WeightReduction    	=    50,
+		Weight    		=    10,
+		Type    		=    Container,
+		Capacity    		=    100,
+		DisplayName    		=    USAF Grey Case,
+		Icon    		=    USAFCaseGrey,
+		ResizeWorldIcon 	=    1.0,
+		RequiresEquippedBothHands 	= true,
+	}
+
+	item USAFCaseBlue
+	{
+		WeightReduction    	=    50,
+		Weight    		=    10,
+		Type    		=    Container,
+		Capacity    		=    100,
+		DisplayName    		=    USAF Blue Case,
+		Icon    		=    USAFCaseBlue,
+		ResizeWorldIcon 	=    1.0,
+		RequiresEquippedBothHands 	= true,
+	}
+
+	item USAFPalletGreen
+	{
+		WeightReduction    	=    100,
+		Weight    		=    50,
+		Type    		=    Container,
+		Capacity    		=    500,
+		DisplayName    		=    Pallet of USAF Cases,
+		Icon    		=    USAFPalletGreen,
+		ResizeWorldIcon 	=    1.0,
+	}
+
+	item USAFPalletGrey
+	{
+		WeightReduction    	=    100,
+		Weight    		=    50,
+		Type    		=    Container,
+		Capacity    		=    500,
+		DisplayName    		=    Pallet of USAF Cases,
+		Icon    		=    USAFPalletGrey,
+		ResizeWorldIcon 	=    1.0,
+	}
+
+	item USAFPalletBlue
+	{
+		WeightReduction    	=    100,
+		Weight    		=    50,
+		Type    		=    Container,
+		Capacity    		=    500,
+		DisplayName    		=    Pallet of USAF Cases,
+		Icon    		=    USAFPalletBlue,
+		ResizeWorldIcon 	=    1.0,
+	}
+
+
+
+
+
+
+	recipe Remove Netting From Airdrop
+	{
+		USAFAirdropBlue,
+		keep KitchenKnife/HuntingKnife/Scissors,
+		Result:USAFPalletBlue,
+		CanBeDoneFromFloor:true,
+		Time:30.0,
+		Category:General,
+		OnCreate:recipe_usafairdropunpackblue,
+	}
+
+	recipe Remove Netting From Airdrop
+	{
+		USAFAirdropGreen,
+		keep KitchenKnife/HuntingKnife/Scissors,
+		Result:USAFPalletGreen,
+		CanBeDoneFromFloor:true,
+		Time:30.0,
+		Category:General,
+		OnCreate:recipe_usafairdropunpackgreen,
+	}
+
+	recipe Remove Netting From Airdrop
+	{
+		USAFAirdropGrey,
+		keep KitchenKnife/HuntingKnife/Scissors,
+		Result:USAFPalletGrey,
+		CanBeDoneFromFloor:true,
+		Time:30.0,
+		Category:General,
+		OnCreate:recipe_usafairdropunpackgrey,
+	}
+
+	recipe Unpack Pallet of USAF Cases
+	{
+		USAFPalletBlue,
+		Result:USAFCaseBlue=5,
+		CanBeDoneFromFloor:true,
+		Time:30.0,
+		Category:General,
+		OnCreate:recipe_usafpalletunpackblue,
+	}
+
+	recipe Unpack Pallet of USAF Cases
+	{
+		USAFPalletGreen,
+		Result:USAFCaseGreen=5,
+		CanBeDoneFromFloor:true,
+		Time:30.0,
+		Category:General,
+		OnCreate:recipe_usafpalletunpackgreen,
+	}
+
+	recipe Unpack Pallet of USAF Cases
+	{
+		USAFPalletGrey,
+		Result:USAFCaseGrey=5,
+		CanBeDoneFromFloor:true,
+		Time:30.0,
+		Category:General,
+		OnCreate:recipe_usafpalletunpackgrey,
+	}
+
+	recipe Make Pallet of USAF Cases
+	{
+		USAFCaseBlue=5,
+		SheetMetal,
+		Result:USAFPalletBlue,
+		CanBeDoneFromFloor:true,
+		Time:30.0,
+		Category:General,
+	}
+
+	recipe Make Pallet of USAF Cases
+	{
+		USAFCaseGreen=5,
+		SheetMetal,
+		Result:USAFPalletGreen,
+		CanBeDoneFromFloor:true,
+		Time:30.0,
+		Category:General,
+	}
+
+	recipe Make Pallet of USAF Cases
+	{
+		USAFCaseGrey=5,
+		SheetMetal,
+		Result:USAFPalletGrey,
+		CanBeDoneFromFloor:true,
+		Time:30.0,
+		Category:General,
+	}
+
+	recipe Salvage Parachute
+	{
+		USAFParachuteL/USAFParachuteR,
+		keep KitchenKnife/HuntingKnife,
+		Result:Sheet,
+		CanBeDoneFromFloor:true,
+		Time:10.0,
+		Category:General,
+		OnCreate:recipe_usafsalvageparachute,
+	}
+
+	
+}

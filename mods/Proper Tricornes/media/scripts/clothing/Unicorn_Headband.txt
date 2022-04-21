@@ -1,0 +1,23 @@
+module Tricornes {
+	imports
+	{
+		Base
+	}
+	item Unicorn_Headband
+	{
+	    DisplayCategory = Accessory,	
+		Type = Clothing,
+		DisplayName = Unicorn Headband,
+		ClothingItem = Unicorn_Headband,
+		BodyLocation = Hat,
+		Icon = UnicornHeadband,
+		CanHaveHoles = false,
+		ChanceToFall = 20,
+       	BloodLocation = Head,
+        Insulation = 0.1,
+        WindResistance = 0.0,
+        WaterResistance = 0.0,
+        Weight = 1,
+		WorldStaticModel = "",
+    	}
+}

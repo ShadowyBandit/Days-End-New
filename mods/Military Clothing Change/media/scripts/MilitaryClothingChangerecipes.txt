@@ -1,0 +1,322 @@
+module Base
+{
+	/************************Desert************************/
+
+	recipe Camo Jacket to Desert Camo Jacket
+	{
+	keep Scissors,
+	keep Needle,
+	Jacket_ArmyCamoGreen/Jacket_ArmyCamoUrban,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result:Jacket_ArmyCamoDesert,
+	}
+
+	recipe Camo Helment to Desert Camo Helment
+	{
+	keep Scissors,
+	keep Needle,
+	Hat_Army/Hat_Army_Urban,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result:Hat_Army_Desert,
+	}
+
+	recipe Camo Backpack to Desert Camo Backpack
+	{
+	keep Scissors,
+	keep Needle,
+	Bag_ALICEpack_Army/Bag_ALICEpack_Camo_Urban,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result:Bag_ALICEpack_Camo_Desert,
+	}
+
+	recipe Camo Pants to Desert Camo Pants
+	{
+	keep Scissors,
+	keep Needle,
+	Trousers_CamoGreen/Trousers_CamoUrban,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result:Trousers_CamoDesert,
+	}
+
+	recipe Camo Shirt to Desert Camo Shirt
+	{
+	keep Scissors,
+	keep Needle,
+	Shirt_CamoGreen/Shirt_CamoUrban,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result: Shirt_CamoDesert,
+	}
+
+	recipe Camo T-Shirt to Desert Camo T-Shirt
+	{
+	keep Scissors,
+	keep Needle,
+	Tshirt_CamoGreen/Tshirt_CamoUrban,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result: Tshirt_CamoDesert,
+	}
+
+	recipe Camo BulletProof Vest to Derert Camo BulletProof Vest
+	{
+	keep Scissors,
+	keep Needle,
+	Vest_BulletArmy/Vest_BulletArmy_Urban,
+	LeatherStrips = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result: Vest_BulletArmy_Desert,
+	}
+
+	/************************General************************/
+
+	recipe Police BulletProof Vest to Green Camo BulletProof Vest
+	{
+	keep Scissors,
+	keep Needle,
+	Vest_BulletPolice,
+	LeatherStrips = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result: Vest_BulletArmy,
+	}
+
+	recipe Black Boots to Desert Boots
+	{
+	keep Scissors,
+	keep Needle,
+	Shoes_ArmyBoots,
+	LeatherStrips = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result: Shoes_ArmyBootsDesert,
+	}
+
+	recipe Desert Boots to Black Boots
+	{
+	keep Scissors,
+	keep Needle,
+	Shoes_ArmyBootsDesert,
+	LeatherStrips = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result: Shoes_ArmyBoots,
+	}
+
+	recipe Urban Camo Shorts to Green Camo Shorts
+	{
+	keep Scissors,
+	keep Needle,
+	Shorts_CamoUrbanLong,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result:Shorts_CamoGreenLong,
+	}
+
+	recipe Green Camo Shorts to Urban Camo Shorts
+	{
+	keep Scissors,
+	keep Needle,
+	Shorts_CamoGreenLong,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result:Shorts_CamoUrbanLong,
+	}
+
+	/************************Green************************/
+
+	recipe Camo Jacket to Green Camo Jacket
+	{
+	keep Scissors,
+	keep Needle,
+	Jacket_ArmyCamoDesert/Jacket_ArmyCamoUrban,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result:Jacket_ArmyCamoGreen,
+	}
+
+	recipe Camo Helment to Green Camo Helment
+	{
+	keep Scissors,
+	keep Needle,
+	Hat_Army_Desert/Hat_Army_Urban,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result:Hat_Army,
+	}
+
+	recipe Camo Backpack to Green Camo Backpack
+	{
+	keep Scissors,
+	keep Needle,
+	Bag_ALICEpack_Army_Desert/Bag_ALICEpack_Army_Urban,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result:Bag_ALICEpack_Army,
+	}
+
+	recipe Camo Pants to Green Camo Pants
+	{
+	keep Scissors,
+	keep Needle,
+	Trousers_CamoDesert/Trousers_CamoUrban,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result:Trousers_CamoGreen,
+	}
+
+	recipe Camo Shirt to Green Camo Shirt
+	{
+	keep Scissors,
+	keep Needle,
+	Shirt_CamoDesert/Shirt_CamoUrban,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result: Shirt_CamoGreen,
+	}
+
+	recipe Camo T-Shirt to Green Camo T-Shirt
+	{
+	keep Scissors,
+	keep Needle,
+	Tshirt_CamoDesert/Tshirt_CamoUrban,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result: Tshirt_CamoGreen,
+	}
+
+	recipe Camo BulletProof Vest to Green Camo BulletProof Vest
+	{
+	keep Scissors,
+	keep Needle,
+	Vest_BulletArmy_Urban/Vest_BulletArmy_Desert,
+	LeatherStrips = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result: Vest_BulletArmy,
+	}
+
+	/************************Urban************************/
+
+	recipe Camo Jacket to Urban Camo Jacket
+	{
+	keep Scissors,
+	keep Needle,
+	Jacket_ArmyCamoDesert/Jacket_ArmyCamoGreen,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result:Jacket_ArmyCamoUrban,
+	}
+
+	recipe Camo Helment to Urban Camo Helment
+	{
+	keep Scissors,
+	keep Needle,
+	Hat_Army_Desert/Hat_Army,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result:Hat_Army_Urban,
+	}
+
+	recipe Camo Backpack to Urban Camo Backpack
+	{
+	keep Scissors,
+	keep Needle,
+	Bag_ALICEpack_Camo_Desert/Bag_ALICEpack_Army,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result:Bag_ALICEpack_Camo_Urban,
+	}
+
+	recipe Camo Pants to Urban Camo Pants
+	{
+	keep Scissors,
+	keep Needle,
+	Trousers_CamoDesert/Trousers_CamoGreen,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result:Trousers_CamoUrban,
+	}
+
+	recipe Camo Shirt to Urban Camo Shirt
+	{
+	keep Scissors,
+	keep Needle,
+	Shirt_CamoDesert/Shirt_CamoGreen,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result: Shirt_CamoUrban,
+	}
+
+	recipe Camo T-Shirt to Urban Camo T-Shirt
+	{
+	keep Scissors,
+	keep Needle,
+	Tshirt_CamoDesert/Tshirt_CamoGreen,
+	RippedSheets = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result: Tshirt_CamoUrban,
+	}
+
+	recipe Camo BulletProof Vest to Urban Camo BulletProof Vest
+	{
+	keep Scissors,
+	keep Needle,
+	Vest_BulletArmy/Vest_BulletArmy_Desert,
+	LeatherStrips = 5,
+	Time:400.0,
+	SkillRequired:Tailoring=4,
+	Category:Tailoring,
+	Result: Vest_BulletArmy_Urban,
+	}
+}

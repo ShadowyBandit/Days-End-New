@@ -1,0 +1,67 @@
+module Base
+{
+
+    item BlowTorch
+    {
+        DisplayCategory = Tool,
+	LightDistance	=	12,
+	TorchCone	=	FALSE,
+	LightStrength	=	2,
+	ActivatedItem	=	TRUE,
+	ticksPerEquipUse = 150,
+        Weight		=	1.0,
+        Type		=	Drainable,
+        UseWhileEquipped	=	TRUE,
+        UseDelta	=	0.01,
+        DisplayName	=	Propane Torch,
+        Icon		=	BlowTorch,
+        MetalValue	= 20,
+        KeepOnDeplete 	= true,
+        StaticModel 	= BlowTorch,
+        WeightEmpty 	= 0.3,
+        	primaryAnimMask = HoldingUmbrellaRight,
+        	secondaryAnimMask = HoldingUmbrellaLeft,
+        WorldStaticModel = BlowtorchGround,
+    }
+
+	item CandleLit
+	{
+	    DisplayCategory = LightSource,
+		LightDistance	=	3,
+		Weight	=	0.2,
+		Type	=	Drainable,
+		TorchCone	=	FALSE,
+		UseDelta	=	0.003,
+		LightStrength	=	0.6,
+		DisplayName	=	Lit Candle,
+		ActivatedItem	=	FALSE,
+		Icon		=	CandleLit,
+		cantBeConsolided = TRUE,
+		StaticModel 	= Candle,
+        	primaryAnimMask = HoldingUmbrellaRight,
+        	secondaryAnimMask = HoldingUmbrellaLeft,
+        	WorldStaticModel = CandleGround,
+	}
+
+	item Lighter
+	{
+	    DisplayCategory = LightSource,
+		LightDistance	=	2,
+		Weight	=	0.1,
+		Type	=	Drainable,
+		UseWhileEquipped	=	TRUE,
+		TorchCone	=	FALSE,
+		LightStrength	=	0.4,
+		DisplayName	=	Lighter,
+		ActivatedItem	=	TRUE,
+		Icon	=	Lighter,
+		MetalValue = 1,
+		cantBeConsolided = TRUE,
+		ticksPerEquipUse = 110,
+		StaticModel 	= Zippo,
+        	primaryAnimMask = HoldingUmbrellaRight,
+        	secondaryAnimMask = HoldingUmbrellaLeft,
+		WorldStaticModel = ZippoGround,
+	}
+
+}

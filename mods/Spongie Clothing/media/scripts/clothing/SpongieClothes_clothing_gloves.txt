@@ -1,0 +1,17 @@
+module Spongie {
+	item Gloves_StripedLong
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Long Striped Gloves,
+		ClothingItem = Gloves_StripedLong,
+		BodyLocation = Hands,
+		BloodLocation = Hands;LowerArms,
+        IconsForTexture = GloveStriped1;GloveStriped2;GloveStriped3;GloveStriped4;GloveStriped5;GloveStriped6;GloveStriped7;GloveStriped8,
+		Weight = 0.1,
+        Insulation = 0.35,
+        WindResistance = 0.35,
+        FabricType = Cotton,
+        WorldStaticModel = GlovesLong_Ground,
+	}
+}

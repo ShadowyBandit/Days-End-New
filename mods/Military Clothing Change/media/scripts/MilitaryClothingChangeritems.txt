@@ -1,0 +1,132 @@
+module Base
+{
+
+	item Vest_BulletArmy_Urban
+	{
+	Type = Clothing,
+        DisplayName = Urban Military Bulletproof Vest,
+        ClothingItem = Vest_BulletArmy_Urban,
+        BodyLocation = TorsoExtra,
+        Icon = BulletVestCamoUrban,
+        BloodLocation = ShirtNoSleeves,
+        Insulation = 0.8,
+        WindResistance = 0.5,
+        BiteDefense = 30,
+        ScratchDefense = 55,
+        BulletDefense = 100,
+        WorldStaticModel = BulletVest_Ground,
+	}
+
+	item Vest_BulletArmy_Desert
+	{
+	Type = Clothing,
+        DisplayName = Desert Military Bulletproof Vest,
+        ClothingItem = Vest_BulletArmy_Desert,
+        BodyLocation = TorsoExtra,
+        Icon = BulletVestCamoDesert,
+        BloodLocation = ShirtNoSleeves,
+        Insulation = 0.65,
+        WindResistance = 0.4,
+        BiteDefense = 30,
+        ScratchDefense = 55,
+        BulletDefense = 100,
+        WorldStaticModel = BulletVest_Ground,
+	}
+
+    item Hat_Army_Desert
+	{
+		Type = Clothing,
+		DisplayName = Desert Military Helmet,
+		ClothingItem = Hat_Army_Desert,
+		BodyLocation = Hat,
+		Icon = HelmetArmyDesert,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		ChanceToFall = 10,
+		Insulation = 0.2,
+		WaterResistance = 0.1,
+	}
+
+    item Hat_Army_Urban
+	{
+		Type = Clothing,
+		DisplayName = Urban Military Helmet,
+		ClothingItem = Hat_Army_Urban,
+		BodyLocation = Hat,
+		Icon = HelmetArmyUrban,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		ChanceToFall = 10,
+		Insulation = 0.3,
+		WaterResistance = 0.3,
+	}
+
+    item Bag_ALICEpack_Camo_Urban
+    {
+        Type = Container,
+        DisplayName = Urban Military Backpack,
+        ClothingItem = Bag_ALICEpack_Camo_Urban,
+        CanBeEquipped = Back,
+        WeightReduction	=	87,
+        Weight	=	2,
+        Capacity	=	28,
+        Icon	=	AliceBag_UrbanCamo,
+        OpenSound   =   OpenBag,
+        CloseSound   =   CloseBag,
+        PutInSound   =   PutItemInBag,
+        BloodLocation = Bag,
+        RunSpeedModifier = 0.94,
+        CanHaveHoles = false,
+        AttachmentReplacement = Bag,
+        ReplaceInSecondHand = Bag_ALICEpack_Camo_Urban_LHand holdingbagleft,
+        ReplaceInPrimaryHand = Bag_ALICEpack_Camo_Urban_RHand holdingbagright,
+        WorldStaticModel = ALICE_Pack_Ground_Urban,
+    }
+
+    item Bag_ALICEpack_Camo_Desert
+    {
+        Type = Container,
+        DisplayName = Desert Military Backpack,
+        ClothingItem = Bag_ALICEpack_Camo_Desert,
+        CanBeEquipped = Back,
+        WeightReduction	=	87,
+        Weight	=	2,
+        Capacity	=	28,
+        Icon	=	AliceBag_DesertCamo,
+        OpenSound   =   OpenBag,
+        CloseSound   =   CloseBag,
+        PutInSound   =   PutItemInBag,
+        BloodLocation = Bag,
+        RunSpeedModifier = 0.94,
+        CanHaveHoles = false,
+        AttachmentReplacement = Bag,
+        ReplaceInSecondHand = Bag_ALICEpack_Camo_Desert_LHand holdingbagleft,
+        ReplaceInPrimaryHand = Bag_ALICEpack_Camo_Desert_RHand holdingbagright,
+        WorldStaticModel = ALICE_Pack_Ground_Desert,
+    }
+
+    item Jacket_ArmyCamoUrban
+    {
+        Type = Clothing,
+        DisplayName = Military Urban Camo Jacket,
+        ClothingItem = Jacket_ArmyCamoUrban,
+        BodyLocation = Jacket,
+        Icon = JacketCamoUrban,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        BiteDefense = 30,
+        ScratchDefense = 50,
+        NeckProtectionModifier = 0.5,
+        Insulation = 0.5,
+        WindResistance = 0.35,
+        FabricType = Cotton,
+        WaterResistance = 0.5,
+        Weight = 2,
+        WorldStaticModel = JacketCoat_Ground,
+    }
+}

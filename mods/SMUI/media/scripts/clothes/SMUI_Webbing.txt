@@ -1,0 +1,107 @@
+module SMUIClothing 
+{
+
+	item MilitaryWebbing
+	{
+		DisplayCategory = Webbing,
+		Type = Container,
+		DisplayName = ALICE Webbing,
+		ClothingItem = MilitaryWebbing,
+		BodyLocation = SMUIWebbingPlus,
+		CanBeEquipped = SMUIWebbingPlus,
+		Capacity = 5,
+		WeightReduction	=	40,
+		RunSpeedModifier = 1,
+		ClothingItemExtra = SMUIClothing.MilitaryWebbingTightened,
+        ClothingItemExtraOption = Fasten,
+		ClothingExtraSubmenu = Unfasten,
+		Icon = MilitaryWebbing,
+		WorldStaticModel = MilitaryWebbing_WorldItem,
+		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
+	}
+
+		item MilitaryWebbingTightened
+	{
+		DisplayCategory = Webbing,
+		Type = Container,
+		DisplayName = ALICE Webbing (Tightened),
+		ClothingItem = MilitaryWebbingTightened,
+		BodyLocation = SMUIWebbingPlus,
+		CanBeEquipped = SMUIWebbingPlus,
+		Capacity = 5,
+		WeightReduction	=	40,
+		RunSpeedModifier = 1,
+		ClothingItemExtra = SMUIClothing.MilitaryWebbing,
+        ClothingItemExtraOption = Unfasten,
+		ClothingExtraSubmenu = Fasten,
+		Icon = MilitaryWebbing,
+		WorldStaticModel = MilitaryWebbing_WorldItem,
+		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
+	}
+
+		item MilitaryWebbingBag
+	{
+		DisplayCategory = Webbing,
+		Type = Container,
+		DisplayName = ALICE Webbing /w Pack,
+		ClothingItem = MilitaryWebbingBag,
+		BodyLocation = SMUIWebbingPlus,
+		CanBeEquipped = SMUIWebbingPlus,
+		Capacity = 8,
+		WeightReduction	=	60,
+		RunSpeedModifier = 1.2,
+		ClothingItemExtra = SMUIClothing.MilitaryWebbingBagTightened,
+        ClothingItemExtraOption = Fasten,
+        ClothingExtraSubmenu = Unfasten,
+		Icon = MilitaryWebbingBag, 
+		WorldStaticModel = MilitaryWebbing_WorldItem,
+		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,	
+	}
+
+		item MilitaryWebbingBagTightened
+	{
+		DisplayCategory = Webbing,
+		Type = Container,
+		DisplayName = ALICE Webbing /w Pack (Tightened),
+		ClothingItem = MilitaryWebbingBagTightened,
+		BodyLocation = SMUIWebbingPlus,
+		CanBeEquipped = SMUIWebbingPlus,
+		Capacity = 8,
+		WeightReduction	=	60,
+		RunSpeedModifier = 1.2,
+		ClothingItemExtra = SMUIClothing.MilitaryWebbingBag,
+        ClothingItemExtraOption = Unfasten,
+		ClothingExtraSubmenu = Fasten,
+		Icon = MilitaryWebbingBag,
+		WorldStaticModel = MilitaryWebbing_WorldItem,
+		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
+	}
+
+		item PistolBeltPouches
+	{
+		DisplayCategory = Webbing,
+		Type = Container,
+		ClothingItem = PistolBeltPouches,
+		BodyLocation = SMUIWebbingPlus,
+		CanBeEquipped = SMUIWebbingPlus,
+		Capacity = 8,
+		WeightReduction	=	30,
+		RunSpeedModifier = 1.2,
+		Icon = PistolBelt, 
+		WorldStaticModel = WebbingBelt_WorldItem,
+	}
+
+		item PistolBeltBag
+	{
+		DisplayCategory = Webbing,
+		Type = Container,
+		ClothingItem = PistolBeltBag,
+		BodyLocation = SMUIWebbingPlus,
+		CanBeEquipped = SMUIWebbingPlus,
+		Capacity = 8,
+		WeightReduction	=	30,
+		RunSpeedModifier = 1.2,
+		Icon = PistolBelt,
+		WorldStaticModel = WebbingBelt_WorldItem,
+	}
+}

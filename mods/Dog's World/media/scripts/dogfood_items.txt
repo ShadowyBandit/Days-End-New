@@ -1,0 +1,95 @@
+module Base
+{
+	item ButteredDogFood
+		{
+			DisplayCategory 	=	Food,
+				HungerChange		=	-50,
+				Weight				=	1.5,
+				Type				=	Food,
+				DaysFresh			=	5,
+				DaysTotallyRotten	=	7,
+				UnhappyChange		=	60,
+				DisplayName			=	Buttered Dog Food,
+				Icon				=	ButteredDogFood,
+		Carbohydrates = 77.56,
+        Proteins = 16.04,
+        Lipids = 364.58,
+        Calories = 3698,
+        Packaged = TRUE,
+        ReplaceOnUse    =   TinCanEmpty,
+        StaticModel = CanOpen,
+        EatType = can,
+        CannedFood = TRUE,
+        WorldStaticModel = CanOpenDogFood,
+		}
+		
+	item WhiskeyRuffs
+		{
+			DisplayCategory 	=	Food,
+				HungerChange		=	-35,
+				ThirstChange		=	-20,
+				Weight				=	1.5,
+				Type				=	Food,
+				DaysFresh			=	5,
+				DaysTotallyRotten	=	7,
+				UnhappyChange		=	45,
+				Alcoholic			=	TRUE,
+				DisplayName			=	Whiskey on the Ruffs,
+				Icon				=	WhiskeyRuffs,
+				AlcoholPower = 2,
+        Carbohydrates = 77.56,
+        Proteins = 16.04,
+        Lipids = 12.58,
+        Calories = 1998,
+        Packaged = TRUE,
+        ReplaceOnUse    =   Bowl,
+        StaticModel = Bowl,
+        EatType = Bowl,
+        CustomEatSound = EatingSoup,
+        WorldStaticModel = BowlSoup_Ground,
+		}
+		
+	item DogFoodPaper
+		{
+			DisplayCategory			=	Food,
+				HungerChange		=	-31,
+				Weight				=	1,
+				Type				=	Food,
+				DaysFresh			=	5,
+				DaysTotallyRotten	=	7,
+				UnhappyChange		=	49,
+				DisplayName			=	Dog Food with Paper Garnish,
+				Icon				=	DogFoodPaper,
+		Carbohydrates = 77.56,
+        Proteins = 16.04,
+        Lipids = 12.58,
+        Calories = 498.1,
+        Packaged = TRUE,
+        ReplaceOnUse    =   Bowl,
+        StaticModel = Bowl,
+        EatType = 2handbowl,
+		CustomEatSound = EatingSoup,
+        WorldStaticModel = BowlSoup_Ground,
+		}
+		
+	item DogBowl
+		{
+			DisplayCategory			=	Food,
+				HungerChange		=	-30,
+				Weight				=	1,
+				Type				=	Food,
+				DaysFresh			=	5,
+				DaysTotallyRotten	=	7,
+				UnhappyChange		=	49,
+				DisplayName			=	Bowl of Dog Food,
+				Icon				=	DogBowl,
+			Carbohydrates = 77.56,
+			Proteins = 16.04,
+			Lipids = 12.58,
+			Calories = 498,
+			ReplaceOnUse    =   Bowl,
+			StaticModel = Bowl,
+			EatType = Bowl,
+			WorldStaticModel = BowlSoup_Ground,
+		}
+}

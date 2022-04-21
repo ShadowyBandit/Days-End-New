@@ -1,0 +1,32 @@
+module Base
+{
+	model m551_Turret
+	{
+		mesh = vehicles/Vehicles_m551|Turret,
+		shader = vehicle,
+		invertX = FALSE,
+		scale = 0.5495,
+	}
+	template vehicle Turret
+	{
+		part Turret
+		{
+            model Default
+            {
+                file = m551_Turret,
+                rotate = 0 0 0,
+                offset = 0 0 0,
+            }
+			category = nodisplay,
+		    itemType = Radio.ScrapMetal,
+		    specificItem = false,
+			file = m551_Turret,
+			lua
+			{
+				create = Vehicles.Create.Radio,
+				update = Vehicles.Update.Radio,
+			}
+		}
+	}
+}
+

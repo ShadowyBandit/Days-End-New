@@ -1,0 +1,228 @@
+module Spongie {
+	
+    item Jacket_SheepWool
+    {
+        Type = Clothing,
+        DisplayName = Winter Jacket,
+        ClothingItem = Jacket_SheepWool,
+        BodyLocation = Jacket,
+        IconsForTexture = SheepWoolJacket;SheepWoolJacket_Black;SheepWoolJacket_Green,
+        BloodLocation = Jacket,
+        FabricType = Leather,
+		
+        ClothingItemExtra = Spongie.Jacket_SheepWoolOPEN,
+        ClothingItemExtraOption = OpenJacket,
+        clothingExtraSubmenu = CloseJacket,
+		
+        RunSpeedModifier = 0.95,
+        CombatSpeedModifier = 0.97,
+        BiteDefense = 15,
+        ScratchDefense = 25,
+        NeckProtectionModifier = 0.25,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WaterResistance = 0.2,
+        Weight = 1.5,
+		
+        WorldStaticModel = Jacket_Ground,
+    }
+	
+    item Jacket_SheepWoolOPEN
+    {
+        Type = Clothing,
+        DisplayName = Winter Jacket (Open),
+        ClothingItem = Jacket_SheepWoolOPEN,
+        BodyLocation = Jacket,
+        IconsForTexture = SheepWoolJacket;SheepWoolJacket_Black;SheepWoolJacket_Green,
+        BloodLocation = Jacket,
+        FabricType = Leather,
+		
+        ClothingItemExtra = Spongie.Jacket_SheepWool,
+        ClothingItemExtraOption = CloseJacket,
+        clothingExtraSubmenu = OpenJacket,
+		
+        RunSpeedModifier = 0.95,
+        CombatSpeedModifier = 0.97,
+        BiteDefense = 15,
+        ScratchDefense = 25,
+        NeckProtectionModifier = 0.25,
+        Insulation = 0.65,
+        WindResistance = 0.4,
+        WaterResistance = 0.1,
+        Weight = 1.5,
+		
+        WorldStaticModel = Jacket_Ground,
+    }
+	
+	item Jacket_PoliceArmor
+    {
+        Type = Clothing,
+        DisplayName = Police Armored Jacket,
+        ClothingItem = Jacket_PoliceArmor,
+        BodyLocation = Jacket,
+        Icon = Jacket_PoliceArmor,
+        BloodLocation = Shirt;Neck,
+        FabricType = Cotton,
+		
+        RunSpeedModifier = 0.90,
+        CombatSpeedModifier = 0.95,
+        NeckProtectionModifier = 0.75,
+        BiteDefense = 25,
+        ScratchDefense = 30,
+        BulletDefense = 25,
+        WaterResistance = 0.3,
+        Insulation = 0.2,
+        WindResistance = 0.2,
+		
+        WorldStaticModel = TShirt_Ground,
+    }
+	
+	
+    item Jacket_Flight
+    {
+        Type = Clothing,
+        DisplayName = Flight Jacket,
+        ClothingItem = Jacket_Flight,
+        BodyLocation = Jacket,
+        IconsForTexture = FlightJacket1;FlightJacket2;FlightJacket3;FlightJacket4,
+        BloodLocation = Jacket,
+        FabricType = Cotton,
+		
+        ClothingItemExtra = Spongie.Jacket_FlightOPEN,
+        ClothingItemExtraOption = OpenJacket,
+        clothingExtraSubmenu = CloseJacket,
+		
+        CombatSpeedModifier = 0.98,
+		
+        BiteDefense = 10,
+        ScratchDefense = 25,
+        NeckProtectionModifier = 0.1,
+        Insulation = 0.3,
+        WindResistance = 0.9,
+        WaterResistance = 0.7,
+        Weight = 1.5,
+		
+        WorldStaticModel = Jacket_Ground,
+    }
+	item Jacket_FlightOPEN
+    {
+        Type = Clothing,
+        DisplayName = Flight Jacket (Open),
+        ClothingItem = Jacket_FlightOPEN,
+        BodyLocation = Jacket,
+        IconsForTexture = FlightJacket1;FlightJacket2;FlightJacket3;FlightJacket4,
+        BloodLocation = Jacket,
+        FabricType = Cotton,
+		
+        ClothingItemExtra = Spongie.Jacket_Flight,
+        ClothingItemExtraOption = CloseJacket,
+        clothingExtraSubmenu = OpenJacket,
+		
+        CombatSpeedModifier = 0.98,
+		
+        BiteDefense = 10,
+        ScratchDefense = 25,
+        NeckProtectionModifier = 0.1,
+        Insulation = 0.2,
+        WindResistance = 0.7,
+        WaterResistance = 0.5,
+        Weight = 1.5,
+		
+        WorldStaticModel = Jacket_Ground,
+    }
+	
+    item Jacket_FlightVest
+    {
+        Type = Clothing,
+        DisplayName = Flight Jacket Sleeveless,
+        ClothingItem = Jacket_FlightVest,
+        BodyLocation = Jacket,
+        IconsForTexture = FlightJacketVest1;FlightJacketVest2;FlightJacketVest3;FlightJacketVest4,
+        BloodLocation = ShirtNoSleeves;Neck,
+        FabricType = Cotton,
+		
+        ClothingItemExtra = Spongie.Jacket_FlightVestOPEN,
+        ClothingItemExtraOption = OpenJacket,
+        clothingExtraSubmenu = CloseJacket,
+		
+        BiteDefense = 10,
+        ScratchDefense = 25,
+        NeckProtectionModifier = 0.1,
+        Insulation = 0.3,
+        WindResistance = 0.9,
+        WaterResistance = 0.7,
+        Weight = 1,
+		
+        WorldStaticModel = Jacket_Ground,
+    }
+	item Jacket_FlightVestOPEN
+    {
+        Type = Clothing,
+        DisplayName = Flight Jacket Sleeveless (Open),
+        ClothingItem = Jacket_FlightVestOPEN,
+        BodyLocation = Jacket,
+        IconsForTexture = FlightJacketVest1;FlightJacketVest2;FlightJacketVest3;FlightJacketVest4,
+        BloodLocation = ShirtNoSleeves;Neck,
+        FabricType = Cotton,
+		
+        ClothingItemExtra = Spongie.Jacket_FlightVest,
+        ClothingItemExtraOption = CloseJacket,
+        clothingExtraSubmenu = OpenJacket,
+		
+        BiteDefense = 10,
+        ScratchDefense = 25,
+        NeckProtectionModifier = 0.1,
+        Insulation = 0.2,
+        WindResistance = 0.7,
+        WaterResistance = 0.5,
+        Weight = 1,
+		
+        WorldStaticModel = Jacket_Ground,
+    }
+	
+	
+    item Jacket_Cardigan
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Cardigan,
+        ClothingItem = Cardigan,
+        BodyLocation = JacketHat,
+        Icon = HoodieWhite,
+        BloodLocation = Shirt;FullHelmet;Trousers,
+        RunSpeedModifier = 0.95,
+		
+        ClothingItemExtra = Jacket_CardiganDOWN,
+        ClothingItemExtraOption = DownHoodie,
+        clothingExtraSubmenu = UpHoodie,
+		
+        ScratchDefense = 10,
+        Insulation = 0.5,
+        WindResistance = 0.3,
+        WaterResistance = 0.2,
+        WorldStaticModel = Poncho_Ground,
+    }
+    item Jacket_CardiganDOWN
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Cardigan,
+        ClothingItem = CardiganDOWN,
+        BodyLocation = Jacket,
+        Icon = HoodieWhite,
+        BloodLocation = Shirt;FullHelmet;Trousers,
+        RunSpeedModifier = 0.95,
+		
+        ClothingItemExtra = Jacket_Cardigan,
+        ClothingItemExtraOption = UpHoodie,
+        clothingExtraSubmenu = DownHoodie,
+		
+        ScratchDefense = 10,
+        Insulation = 0.5,
+        WindResistance = 0.3,
+        WaterResistance = 0.2,
+        WorldStaticModel = Poncho_Ground,
+    }
+	
+	
+}

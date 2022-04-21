@@ -1,0 +1,576 @@
+module Tsarcraft
+{
+	imports
+	{
+		Base
+	}
+/********************Generated Music Carriers********************/
+
+	item CassetteATribeCalledQuestExcursions
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette A Tribe Called Quest - Excursions,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteAlphavilleForeverYoung
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Alphaville - Forever Young,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteArianneKommSusserTod
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Arianne - Komm Susser Tod,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteBauhausAllWeEverWantedWasEverything
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Bauhaus - All We Ever Wanted Was Everything,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteBlackFlagRiseAbove
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Black Flag - Rise Above,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteBoneyMRasputin
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Boney M. - Rasputin,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteBootsRandolphYaketySax
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Boots Randolph - Yakety Sax,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteCharlieDanielsBandTheDevilWentDowntoGeorgia
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Charlie Daniels Band - The Devil Went Down to Georgia,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteChokingVictimApplePie&PoliceState
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Choking Victim - Apple Pie & Police State,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteChokingVictimInfested
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Choking Victim - Infested,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteDasDeutschlandlied
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Das Deutschlandlied,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteDeadKennedysIFoughttheLaw
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Dead Kennedys - I Fought the Law,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteDefLeppardPourSomeSugarOnMe
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Def Leppard - Pour Some Sugar On Me,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteDerErEtYndigtLand
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Der Er Et Yndigt Land,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteDesteaptateRomane!
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Desteapta-te Romane!,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteDionDiMucciTheWanderer
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Dion DiMucci - The Wanderer,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteDouglasRobsonWhirlwindsofDanger
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Douglas Robson - Whirlwinds of Danger,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteDuGamlaDuFria
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Du Gamla Du Fria,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteEricBogleAndtheBandPlayedWaltzingMatilda
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Eric Bogle - And the Band Played Waltzing Matilda,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteEtienneMehulChantdudepart
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Etienne Mehul - Chant du depart,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteFallHarvestDancingInTheMoonlight
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Fall Harvest - Dancing In The Moonlight,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteFrankSinatraFlyMeToTheMoon
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Frank Sinatra - Fly Me To The Moon,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteGeorgesMoustakiSansLaNommer(LaRevolutionPermanente)
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Georges Moustaki - Sans La Nommer (La Revolution Permanente),
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteGodSavetheQueen
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette God Save the Queen,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteHall&OatesOutofTouch
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Hall & Oates - Out of Touch,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteHetWilhelmus
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Het Wilhelmus,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteHimnoNacionalMexicano
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Himno Nacional Mexicano,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteIceCubeItWasAGoodDay
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Ice Cube - It Was A Good Day,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteIsaacDunaevskyWideIsMyMotherland
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Isaac Dunaevsky - Wide Is My Motherland,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteJeffersonAirplanesSomebodytoLove
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Jefferson Airplanes - Somebody to Love,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteJoyDivisionDisorder
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Joy Division - Disorder,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteJuliusFucikEntryoftheGladiators
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Julius Fucik - Entry of the Gladiators,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteLaBrabanconne
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette La Brabanconne,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteLaMarseillaise
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette La Marseillaise,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteLedZepplinImmigrantSong
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Led Zepplin - Immigrant Song,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteLijepaNasaDomovino
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Lijepa Nasa Domovino,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteLoitumaIevanPolkka
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Loituma - Ievan Polkka,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteLoverboyWorkingfortheWeekend
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Loverboy - Working for the Weekend,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteLunizIGot5OnIt
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Luniz - I Got 5 On It,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteMartyRobbinsAin'tIRight
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Marty Robbins - Ain't I Right,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteMazurekDabrowskiego
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Mazurek Dabrowskiego,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteMikiMatsubaraStayWithMe
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Miki Matsubara - Stay With Me,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteNWAFukDaPolice
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette N.W.A. - Fuk Da Police,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteNewOrderBlueMonday
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette New Order - Blue Monday,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteNirvanaSomethingInTheWay
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Nirvana - Something In The Way,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteNoDoubtSpiderwebs
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette No Doubt - Spiderwebs,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteOCanada
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette O Canada,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassettePatBenetarHitMeWithYourBestShot
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Pat Benetar - Hit Me With Your Best Shot,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassettePixiesDebaser
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Pixies - Debaser,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassettePixiesTheHappening
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Pixies - The Happening,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteRichardWagnerRideofTheValkyries
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Richard Wagner - Ride of The Valkyries,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteRobZombieDragula
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Rob Zombie - Dragula,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteSirMixALotBabyGotBack
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Sir Mix-A-Lot - Baby Got Back,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteStateAnthemoftheSovietUnion
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette State Anthem of the Soviet Union,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteStevieBDreaminOfLove
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Stevie B - Dreamin Of Love,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteTalkingHeadsPsychoKiller
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Talking Heads - Psycho Killer,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteTheAnimalsHouseoftheRisingSun
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette The Animals - House of the Rising Sun,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteTheEcstasyofGoldEnnioMorricone
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette The Ecstasy of Gold - Ennio Morricone,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteTheProclaimersI'mGonnaBe(500Miles)
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette The Proclaimers - I'm Gonna Be (500 Miles),
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteTheRollingStonesPaintItBlack
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette The Rolling Stones - Paint It Black,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteTheStarSpangledBanner
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette The Star-Spangled Banner,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteVeraLynnWe'llMeetAgain
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Vera Lynn - We'll Meet Again,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteWuTangClanTearz
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Wu-Tang Clan - Tearz,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+}

@@ -1,0 +1,1683 @@
+module Tsarcraft
+{
+	imports
+	{
+		Base
+	}
+/********************Generated Music Carriers********************/
+
+	item Vinyl2pacCaliforniaLove
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl 2pac - California Love,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylahaTakeOnMe
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl a-ha - Take On Me,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylABBADancingQueen
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl ABBA - Dancing Queen,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylABBALayAllYourLoveOnMe
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl ABBA - Lay All Your Love On Me,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylACDCHighwaytoHell
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl ACDC - Highway to Hell,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylACDCTNT
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl ACDC - TNT,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylAceofBaseTheSign
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Ace of Base - The Sign,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylAlabamaChristmasInDixie
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Alabama - Christmas In Dixie,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylAquaBarbieGirl
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Aqua - Barbie Girl,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylBeastieBoysSabotage
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Beastie Boys - Sabotage,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylBeckLoser
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Beck - Loser,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylBeeGeesStayin'Alive
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Bee Gees - Stayin' Alive,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylBillyIdolRebelYell
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Billy Idol - Rebel Yell,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylBillyJoelPianoMan
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Billy Joel - Piano Man,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylBillyJoelWeDidn'tStarttheFire
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Billy Joel - We Didn't Start the Fire,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylBillyRayCyrusAchyBreakyHeart
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Billy Ray Cyrus - Achy Breaky Heart,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylBingCrosbyWhiteChristmas
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Bing Crosby - White Christmas,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylBlindMelonNoRain
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Blind Melon - No Rain,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylBloodhoundGangFireWaterBurn
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Bloodhound Gang - Fire Water Burn,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylBlueMoonofKentucky
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Blue Moon of Kentucky,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylBlueOysterCult(Don'tFear)TheReaper
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Blue Oyster Cult - (Don't Fear) The Reaper,
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylBobDylanMrTambourineMan
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Bob Dylan - Mr. Tambourine Man,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylBobbyDarinBeyondtheSea
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Bobby Darin - Beyond the Sea,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylBobbyDarinDreamLover
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Bobby Darin - Dream Lover,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylBobbyHelmsJingleBellRock
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Bobby Helms - Jingle Bell Rock,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylBonJoviLivin'OnAPrayer
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Bon Jovi - Livin' On A Prayer,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylBonJoviYouGiveLoveABadName
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Bon Jovi - You Give Love A Bad Name,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylBonnieTylerHoldingOutForAHero
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Bonnie Tyler - Holding Out For A Hero,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylBonnieTylerTotalEclipseoftheHeart
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Bonnie Tyler - Total Eclipse of the Heart,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylCakeTheDistance
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Cake - The Distance,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylCelineDionMyHeartWillGoOn
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Celine Dion - My Heart Will Go On,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylChrisIsaakWickedGame
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Chris Isaak - Wicked Game,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylChuckBerryJohnnyBGoode
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Chuck Berry - Johnny B. Goode,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylCoolioGangsta'sParadise
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Coolio - Gangsta's Paradise,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylCountingCrowsMrJones
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Counting Crows - Mr Jones,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylCreedenceClearwaterRevivalFortunateSon
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Creedence Clearwater Revival - Fortunate Son,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylCyndiLauperGirlsJustWanttoHaveFun
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Cyndi Lauper - Girls Just Want to Have Fun,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylDaveMatthewsBandCrashIntoMe
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Dave Matthews Band - Crash Into Me,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylDaveMatthewsBandJimiThing
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Dave Matthews Band - Jimi Thing,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylDaveMatthewsBandSoMuchToSay
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Dave Matthews Band - So Much To Say,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylDavidBowieLifeOnMars
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl David Bowie - Life On Mars,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylDavidBowieSpaceOddity
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl David Bowie - Space Oddity,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylDavidBowieUnderPressure
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl David Bowie - Under Pressure,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylDeanMartinSilverBells
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Dean Martin - Silver Bells,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylDeanMartinWinterWonderland
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Dean Martin - Winter Wonderland,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylDireStraitsSultansOfSwing
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Dire Straits - Sultans Of Swing,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylDonHenleyTheBoysOfSummer
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Don Henley - The Boys Of Summer,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylDon'tSpeakNoDoubt
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Don't Speak - No Doubt,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylDuncanSheikBarelyBreathing
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Duncan Sheik - Barely Breathing,
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylEaglesHotelCalifornia
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Eagles - Hotel California,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylEarthWind&FireSeptember
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Earth Wind & Fire - September,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylElectricLightOrcehstraMrBlueSky
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Electric Light Orcehstra - Mr. Blue Sky,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylElectricLightOrchestraTelephoneLine
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Electric Light Orchestra - Telephone Line,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylEltonJohnYourSong
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Elton John - Your Song,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylElvisPresleyBlueSuedeShoes
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Elvis Presley - Blue Suede Shoes,
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylElvisPresleyCan'tHelpFallingInLove
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Elvis Presley - Can't Help Falling In Love,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylElvisPresleyHeartbreakHotel
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Elvis Presley - Heartbreak Hotel,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylEmmylouHarrisBeneathStillWaters
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Emmylou Harris - Beneath Still Waters,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylExitMusic(ForAFilm)
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Exit Music (For A Film),
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylFleetwoodMacGoYouOwnWay
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Fleetwood Mac - Go You Own Way,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylFooFightersEverlong
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Foo Fighters - Everlong,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylFrankSinatraComeFlyWithMe
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Frank Sinatra - Come Fly With Me,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylFrankSinatraMyWay
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Frank Sinatra - My Way,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylFrankSinatraThat'sLife
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Frank Sinatra - That's Life,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylGeorgeMichaelCarelessWhisper
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl George Michael - Careless Whisper,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylGooGooDollsName
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Goo Goo Dolls - Name,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylGreenDayBasketCase
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Green Day - Basket Case,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylGunsNRosesNovemberRain
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Guns N Roses - November Rain,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylGunsNRosesWelcometotheJungle
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Guns N Roses - Welcome to the Jungle ,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylHall&OatesYouMakeMyDreams(ComeTrue)
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Hall & Oates - You Make My Dreams (Come True),
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylHankWilliamsHeyGoodLookin'
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Hank Williams - Hey Good Lookin',
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylHankWilliamsHonkyTonkBlues
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Hank Williams - Honky Tonk Blues,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylHankWilliamsLovesickBlues
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Hank Williams - Lovesick Blues,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylHarryChapinCatsInTheCradle
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Harry Chapin - Cats In The Cradle,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylHueyLewis&TheNewsHipToBeSquare
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Huey Lewis & The News - Hip To Be Square,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylIfYouCouldOnlySeeTonic
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl If You Could Only See - Tonic,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylJeffBuckleyHallelujah
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Jeff Buckley - Hallelujah,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylJeffBuckleySoReal
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Jeff Buckley - So Real,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylJerryLeeLewisGreatBallsOfFire
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Jerry Lee Lewis - Great Balls Of Fire,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylJerryLeeLewisWholeLottaShakin'Goin'On
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Jerry Lee Lewis - Whole Lotta Shakin' Goin' On,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylJohnDenverTakeMeHomeCountryRoads
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl John Denver - Take Me Home Country Roads,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylJohnnyCashFolsomPrisonBlues
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Johnny Cash - Folsom Prison Blues,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylJourneyDon'tStopBelievin'
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Journey - Don't Stop Believin',
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylKansasCarryOnWaywardSon
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Kansas - Carry On Wayward Son,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylKennyLogginsDangerZone
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Kenny Loggins - Danger Zone,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylKennyRogersCowardOfTheCounty
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Kenny Rogers - Coward Of The County,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylKidWildeKidsInAmerica
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Kid Wilde - Kids In America,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylKINOSpokoynayaNoch'(CalmNight)
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl KINO - Spokoynaya Noch' (Calm Night),
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylLedZeppelinStairwayToHeaven
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Led Zeppelin - Stairway To Heaven,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylLeeGreenwoodDixieRoad
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Lee Greenwood - Dixie Road,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylLippsIncFunkytown
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Lipps Inc. - Funkytown,
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylLouisArmstrongAKisstoBuildaDreamOn
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Louis Armstrong - A Kiss to Build a Dream On,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylLouisJordanIsYouIsOrIsYouAin't(MyBaby)
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Louis Jordan - Is You Is Or Is You Ain't (My Baby),
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylLynyrdSkynyrdSweetHomeAlabama
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Lynyrd Skynyrd - Sweet Home Alabama,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylMadnessOurHouse
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Madness - Our House,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylMadonnaMaterialGirl
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Madonna - Material Girl,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylMariyaTakeuchiPlasticLove
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Mariya Takeuchi - Plastic Love,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylMartyRobbinsBigIron
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Marty Robbins - Big Iron,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylMatchboxTwenty3AM
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Matchbox Twenty - 3AM,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylMenAtWorkDownUnder
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Men At Work - Down Under,
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylMenWithoutHatsTheSafetyDance
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Men Without Hats - The Safety Dance,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylMichaelJacksonBillieJean
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Michael Jackson - Billie Jean,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylMichaelJacksonThriller
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Michael Jackson - Thriller,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylModestMouseInterstate8
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Modest Mouse - Interstate 8,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylMyBloodyValentineWhenYouSleep
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl My Bloody Valentine - When You Sleep,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylNWABoysIntheHood
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl N.W.A. - Boys In the Hood,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylNatKingColeTheChristmasSong
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Nat King Cole - The Christmas Song,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylNeilDiamondSweetCaroline
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Neil Diamond - Sweet Caroline,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylNeilYoungHeartOfGold
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Neil Young - Heart Of Gold,
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylNirvanaLithium
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Nirvana - Lithium,
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylNirvanaSmellsLikeTeenSpirit
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Nirvana - Smells Like Teen Spirit,
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylNoDoubtJustAGirl
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl No Doubt - Just A Girl,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylNotoriousBIGHypnotize
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Notorious B.I.G. - Hypnotize,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylOasisChampagneSupernova
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Oasis - Champagne Supernova,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylOasisWonderwall
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Oasis - Wonderwall,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylOzzyOsbourneCrazyTrain
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Ozzy Osbourne - Crazy Train,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylPaulMcCartney&WingsJet
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Paul McCartney & Wings - Jet,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylPaulMcCartneyBandOnTheRun
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Paul McCartney - Band On The Run,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylPavementStarlingsOfTheSlipstream
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Pavement - Starlings Of The Slipstream,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylPearlJamEvenFlow
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Pearl Jam - Even Flow,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylPeggyLeeJohnnyGuitar
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Peggy Lee - Johnny Guitar,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylPerryComoPapaLovesMambo
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Perry Como - Papa Loves Mambo,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylPhilCollinsIntheAirTonight
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Phil Collins - In the Air Tonight,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylPinkFloydComfortablyNumb
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Pink Floyd - Comfortably Numb,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylPinkFloydTime
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Pink Floyd - Time,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylPinkFloydWishYouWereHere
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Pink Floyd - Wish You Were Here,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylQueenBohemianRhapsody
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Queen - Bohemian Rhapsody,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylQueenDon'tStopMeNow
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Queen - Don't Stop Me Now,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylREMLosingMyReligion
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl R.E.M. - Losing My Religion,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylRadioheadFakePlasticTrees
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Radiohead - Fake Plastic Trees,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylRadioheadParanoidAndroid
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Radiohead - Paranoid Android,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylRageAgainstTheMachineBullsOnParade
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Rage Against The Machine - Bulls On Parade,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylRageAgainsttheMachineKillingInTheName
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Rage Against the Machine - Killing In The Name,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylRammsteinDuRiechstSoGut'95
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Rammstein - Du Riechst So Gut '95,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylRayCharlesIGotaWoman
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Ray Charles - I Got a Woman,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylRedHotChiliPeppersUndertheBridge
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Red Hot Chili Peppers - Under the Bridge,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylRickAstleyNeverGonnaGiveYouUp
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Rick Astley - Never Gonna Give You Up,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylRuleBritannia!AlbertFarrington
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Rule Britannia! - Albert Farrington,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylShaniaTwainMan!IFeelLikeAWoman
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Shania Twain - Man! I Feel Like A Woman,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylSherylCrowIfItMakesYouHappy
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Sheryl Crow - If It Makes You Happy,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylSimon&GarfunkelKathy'sSong
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Simon & Garfunkel - Kathy's Song,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylSimon&GarfunkelMrsRobinson
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Simon & Garfunkel - Mrs. Robinson,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylSimon&GarfunkelTheSoundofSilence
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Simon & Garfunkel - The Sound of Silence,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylSimpleMindsDon'tYou(ForgetAboutMe)
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Simple Minds - Don't You (Forget About Me),
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylSmashMouthWalkinontheSun
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Smash Mouth - Walkin on the Sun,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylSmashingPumpkins1979
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Smashing Pumpkins - 1979,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylSmashingPumpkinsTonightTonight
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Smashing Pumpkins - Tonight Tonight,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylSoftCellTaintedLove
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Soft Cell - Tainted Love,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylSonicYouthTeenAgeRiot
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Sonic Youth - Teen Age Riot,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylSoundgardenBlackHoleSun
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Soundgarden - Black Hole Sun,
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylSquealerHellcomeinHeaven
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Squealer - Hellcome in Heaven,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylStealersWheelStuckInTheMiddleWithYou
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Stealers Wheel - Stuck In The Middle With You,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylStoneTemplePilotsInterstateLoveSong
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Stone Temple Pilots - Interstate Love Song,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylSublimeWhatIGot
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Sublime - What I Got,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylSugarRayFly
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Sugar Ray - Fly,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylSusanneVegaTom'sDiner
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Susanne Vega - Tom's Diner,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylTalkingHeadsBurningDowntheHouse
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Talking Heads - Burning Down the House,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylTearsForFearsEverybodyWantsToRuleTheWorld
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Tears For Fears - Everybody Wants To Rule The World,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylTearsforFearsHeadOverHeels
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Tears for Fears - Head Over Heels,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylTheBeatlesComeTogether
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl The Beatles - Come Together,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylTheBeatlesEleanorRigby
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl The Beatles - Eleanor Rigby,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylTheBeatlesHelterSkelter
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl The Beatles - Helter Skelter,
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylTheChordettesMrSandman
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl The Chordettes - Mr. Sandman,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylTheCranberriesLinger
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl The Cranberries - Linger,
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylTheCureFridayI'minLove
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl The Cure - Friday I'm in Love,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylTheDoorsRidersOnTheStorm
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl The Doors - Riders On The Storm,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylTheDoorsTheEnd
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl The Doors - The End,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylTheInkSpotsIDon'tWanttoSettheWorldonFire
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl The Ink Spots - I Don't Want to Set the World on Fire,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylTheJimiHendrixExperienceAllAlongTheWatchtower
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl The Jimi Hendrix Experience - All Along The Watchtower,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylTheOakRidgeBoysLeavingLouisiana(IntheBraodDayLight)
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl The Oak Ridge Boys - Leaving Louisiana (In the Braod Day Light),
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylThePoliceEveryLittleThingSheDoesIsMagic
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl The Police - Every Little Thing She Does Is Magic,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylThePoliceRoxanne
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl The Police - Roxanne,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylTheRunawaysCherryBomb
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl The Runaways - Cherry Bomb,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylTheVelvetUndergroundSundayMorning
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl The Velvet Underground - Sunday Morning,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylTheWallflowersOneHeadlight
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl The Wallflowers - One Headlight,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylTLCWaterfalls
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl TLC - Waterfalls,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylToadtheWetSprocketWalkontheOcean
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Toad the Wet Sprocket - Walk on the Ocean,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylTotoAfrica
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Toto - Africa,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylTotoHoldtheLine
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Toto - Hold the Line,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylVanHalenJump
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Van Halen - Jump,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylVelvetUndergroundPaleBlueEyes
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Velvet Underground - Pale Blue Eyes,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylVerticalHorizonYou'reaGod
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Vertical Horizon - You're a God,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylWeezerBuddyHolly
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Weezer - Buddy Holly,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylWhitneyHoustonIWannaDancewithSomebody
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Whitney Houston - I Wanna Dance with Somebody,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylWillSmithMeninBlackLyrics
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Will Smith - Men in Black Lyrics,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylZombieTheCranberries
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Zombie - The Cranberries,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+}

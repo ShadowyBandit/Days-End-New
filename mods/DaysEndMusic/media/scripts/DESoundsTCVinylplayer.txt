@@ -1,0 +1,1863 @@
+module Tsarcraft
+{
+	sound Vinyl2pacCaliforniaLove
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/2pac - California Love.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylahaTakeOnMe
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/a-ha - Take On Me.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylABBADancingQueen
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/ABBA - Dancing Queen.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylABBALayAllYourLoveOnMe
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/ABBA - Lay All Your Love On Me.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylACDCHighwaytoHell
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/ACDC - Highway to Hell.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylACDCTNT
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/ACDC - TNT.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylAceofBaseTheSign
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Ace of Base - The Sign.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylAlabamaChristmasInDixie
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Alabama - Christmas In Dixie.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylAquaBarbieGirl
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Aqua - Barbie Girl.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBeastieBoysSabotage
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Beastie Boys - Sabotage.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBeckLoser
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Beck - Loser.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBeeGeesStayin'Alive
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Bee Gees - Stayin' Alive.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBillyIdolRebelYell
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Billy Idol - Rebel Yell.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBillyJoelPianoMan
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Billy Joel - Piano Man.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBillyJoelWeDidn'tStarttheFire
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Billy Joel - We Didn't Start the Fire.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBillyRayCyrusAchyBreakyHeart
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Billy Ray Cyrus - Achy Breaky Heart.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBingCrosbyWhiteChristmas
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Bing Crosby - White Christmas.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBlindMelonNoRain
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Blind Melon - No Rain.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBloodhoundGangFireWaterBurn
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Bloodhound Gang - Fire Water Burn.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBlueMoonofKentucky
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Blue Moon of Kentucky.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBlueOysterCult(Don'tFear)TheReaper
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Blue Oyster Cult - (Don't Fear) The Reaper.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBobDylanMrTambourineMan
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Bob Dylan - Mr. Tambourine Man.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBobbyDarinBeyondtheSea
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Bobby Darin - Beyond the Sea.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBobbyDarinDreamLover
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Bobby Darin - Dream Lover.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBobbyHelmsJingleBellRock
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Bobby Helms - Jingle Bell Rock.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBonJoviLivin'OnAPrayer
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Bon Jovi - Livin' On A Prayer.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBonJoviYouGiveLoveABadName
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Bon Jovi - You Give Love A Bad Name.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBonnieTylerHoldingOutForAHero
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Bonnie Tyler - Holding Out For A Hero.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylBonnieTylerTotalEclipseoftheHeart
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Bonnie Tyler - Total Eclipse of the Heart.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylCakeTheDistance
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Cake - The Distance.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylCelineDionMyHeartWillGoOn
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Celine Dion - My Heart Will Go On.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylChrisIsaakWickedGame
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Chris Isaak - Wicked Game.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylChuckBerryJohnnyBGoode
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Chuck Berry - Johnny B. Goode.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylCoolioGangsta'sParadise
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Coolio - Gangsta's Paradise.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylCountingCrowsMrJones
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Counting Crows - Mr Jones.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylCreedenceClearwaterRevivalFortunateSon
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Creedence Clearwater Revival - Fortunate Son.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylCyndiLauperGirlsJustWanttoHaveFun
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Cyndi Lauper - Girls Just Want to Have Fun.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylDaveMatthewsBandCrashIntoMe
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Dave Matthews Band - Crash Into Me.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylDaveMatthewsBandJimiThing
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Dave Matthews Band - Jimi Thing.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylDaveMatthewsBandSoMuchToSay
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Dave Matthews Band - So Much To Say.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylDavidBowieLifeOnMars
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/David Bowie - Life On Mars.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylDavidBowieSpaceOddity
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/David Bowie - Space Oddity.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylDavidBowieUnderPressure
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/David Bowie - Under Pressure.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylDeanMartinSilverBells
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Dean Martin - Silver Bells.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylDeanMartinWinterWonderland
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Dean Martin - Winter Wonderland.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylDireStraitsSultansOfSwing
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Dire Straits - Sultans Of Swing.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylDonHenleyTheBoysOfSummer
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Don Henley - The Boys Of Summer.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylDon'tSpeakNoDoubt
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Don't Speak - No Doubt.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylDuncanSheikBarelyBreathing
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Duncan Sheik - Barely Breathing.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylEaglesHotelCalifornia
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Eagles - Hotel California.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylEarthWind&FireSeptember
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Earth Wind & Fire - September.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylElectricLightOrcehstraMrBlueSky
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Electric Light Orcehstra - Mr. Blue Sky.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylElectricLightOrchestraTelephoneLine
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Electric Light Orchestra - Telephone Line.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylEltonJohnYourSong
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Elton John - Your Song.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylElvisPresleyBlueSuedeShoes
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Elvis Presley - Blue Suede Shoes.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylElvisPresleyCan'tHelpFallingInLove
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Elvis Presley - Can't Help Falling In Love.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylElvisPresleyHeartbreakHotel
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Elvis Presley - Heartbreak Hotel.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylEmmylouHarrisBeneathStillWaters
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Emmylou Harris - Beneath Still Waters.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylExitMusic(ForAFilm)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Exit Music (For A Film).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylFleetwoodMacGoYouOwnWay
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Fleetwood Mac - Go You Own Way.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylFooFightersEverlong
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Foo Fighters - Everlong.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylFrankSinatraComeFlyWithMe
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Frank Sinatra - Come Fly With Me.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylFrankSinatraMyWay
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Frank Sinatra - My Way.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylFrankSinatraThat'sLife
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Frank Sinatra - That's Life.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylGeorgeMichaelCarelessWhisper
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/George Michael - Careless Whisper.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylGooGooDollsName
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Goo Goo Dolls - Name.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylGreenDayBasketCase
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Green Day - Basket Case.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylGunsNRosesNovemberRain
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Guns N Roses - November Rain.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylGunsNRosesWelcometotheJungle
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Guns N Roses - Welcome to the Jungle .ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylHall&OatesYouMakeMyDreams(ComeTrue)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Hall & Oates - You Make My Dreams (Come True).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylHankWilliamsHeyGoodLookin'
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Hank Williams - Hey Good Lookin'.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylHankWilliamsHonkyTonkBlues
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Hank Williams - Honky Tonk Blues.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylHankWilliamsLovesickBlues
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Hank Williams - Lovesick Blues.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylHarryChapinCatsInTheCradle
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Harry Chapin - Cats In The Cradle.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylHueyLewis&TheNewsHipToBeSquare
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Huey Lewis & The News - Hip To Be Square.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylIfYouCouldOnlySeeTonic
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/If You Could Only See - Tonic.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylJeffBuckleyHallelujah
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Jeff Buckley - Hallelujah.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylJeffBuckleySoReal
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Jeff Buckley - So Real.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylJerryLeeLewisGreatBallsOfFire
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Jerry Lee Lewis - Great Balls Of Fire.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylJerryLeeLewisWholeLottaShakin'Goin'On
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Jerry Lee Lewis - Whole Lotta Shakin' Goin' On.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylJohnDenverTakeMeHomeCountryRoads
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/John Denver - Take Me Home Country Roads.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylJohnnyCashFolsomPrisonBlues
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Johnny Cash - Folsom Prison Blues.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylJourneyDon'tStopBelievin'
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Journey - Don't Stop Believin'.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylKansasCarryOnWaywardSon
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Kansas - Carry On Wayward Son.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylKennyLogginsDangerZone
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Kenny Loggins - Danger Zone.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylKennyRogersCowardOfTheCounty
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Kenny Rogers - Coward Of The County.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylKidWildeKidsInAmerica
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Kid Wilde - Kids In America.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylKINOSpokoynayaNoch'(CalmNight)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/KINO - Spokoynaya Noch' (Calm Night).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylLedZeppelinStairwayToHeaven
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Led Zeppelin - Stairway To Heaven.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylLeeGreenwoodDixieRoad
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Lee Greenwood - Dixie Road.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylLippsIncFunkytown
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Lipps Inc. - Funkytown.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylLouisArmstrongAKisstoBuildaDreamOn
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Louis Armstrong - A Kiss to Build a Dream On.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylLouisJordanIsYouIsOrIsYouAin't(MyBaby)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Louis Jordan - Is You Is Or Is You Ain't (My Baby).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylLynyrdSkynyrdSweetHomeAlabama
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Lynyrd Skynyrd - Sweet Home Alabama.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylMadnessOurHouse
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Madness - Our House.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylMadonnaMaterialGirl
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Madonna - Material Girl.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylMariyaTakeuchiPlasticLove
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Mariya Takeuchi - Plastic Love.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylMartyRobbinsBigIron
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Marty Robbins - Big Iron.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylMatchboxTwenty3AM
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Matchbox Twenty - 3AM.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylMenAtWorkDownUnder
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Men At Work - Down Under.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylMenWithoutHatsTheSafetyDance
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Men Without Hats - The Safety Dance.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylMichaelJacksonBillieJean
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Michael Jackson - Billie Jean.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylMichaelJacksonThriller
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Michael Jackson - Thriller.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylModestMouseInterstate8
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Modest Mouse - Interstate 8.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylMyBloodyValentineWhenYouSleep
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/My Bloody Valentine - When You Sleep.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylNWABoysIntheHood
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/N.W.A. - Boys In the Hood.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylNatKingColeTheChristmasSong
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Nat King Cole - The Christmas Song.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylNeilDiamondSweetCaroline
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Neil Diamond - Sweet Caroline.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylNeilYoungHeartOfGold
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Neil Young - Heart Of Gold.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylNirvanaLithium
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Nirvana - Lithium.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylNirvanaSmellsLikeTeenSpirit
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Nirvana - Smells Like Teen Spirit.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylNoDoubtJustAGirl
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/No Doubt - Just A Girl.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylNotoriousBIGHypnotize
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Notorious B.I.G. - Hypnotize.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylOasisChampagneSupernova
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Oasis - Champagne Supernova.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylOasisWonderwall
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Oasis - Wonderwall.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylOzzyOsbourneCrazyTrain
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Ozzy Osbourne - Crazy Train.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylPaulMcCartney&WingsJet
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Paul McCartney & Wings - Jet.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylPaulMcCartneyBandOnTheRun
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Paul McCartney - Band On The Run.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylPavementStarlingsOfTheSlipstream
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Pavement - Starlings Of The Slipstream.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylPearlJamEvenFlow
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Pearl Jam - Even Flow.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylPeggyLeeJohnnyGuitar
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Peggy Lee - Johnny Guitar.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylPerryComoPapaLovesMambo
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Perry Como - Papa Loves Mambo.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylPhilCollinsIntheAirTonight
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Phil Collins - In the Air Tonight.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylPinkFloydComfortablyNumb
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Pink Floyd - Comfortably Numb.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylPinkFloydTime
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Pink Floyd - Time.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylPinkFloydWishYouWereHere
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Pink Floyd - Wish You Were Here.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylQueenBohemianRhapsody
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Queen - Bohemian Rhapsody.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylQueenDon'tStopMeNow
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Queen - Don't Stop Me Now.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylREMLosingMyReligion
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/R.E.M. - Losing My Religion.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylRadioheadFakePlasticTrees
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Radiohead - Fake Plastic Trees.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylRadioheadParanoidAndroid
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Radiohead - Paranoid Android.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylRageAgainstTheMachineBullsOnParade
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Rage Against The Machine - Bulls On Parade.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylRageAgainsttheMachineKillingInTheName
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Rage Against the Machine - Killing In The Name.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylRammsteinDuRiechstSoGut'95
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Rammstein - Du Riechst So Gut '95.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylRayCharlesIGotaWoman
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Ray Charles - I Got a Woman.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylRedHotChiliPeppersUndertheBridge
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Red Hot Chili Peppers - Under the Bridge.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylRickAstleyNeverGonnaGiveYouUp
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Rick Astley - Never Gonna Give You Up.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylRuleBritannia!AlbertFarrington
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Rule Britannia! - Albert Farrington.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylShaniaTwainMan!IFeelLikeAWoman
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Shania Twain - Man! I Feel Like A Woman.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylSherylCrowIfItMakesYouHappy
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Sheryl Crow - If It Makes You Happy.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylSimon&GarfunkelKathy'sSong
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Simon & Garfunkel - Kathy's Song.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylSimon&GarfunkelMrsRobinson
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Simon & Garfunkel - Mrs. Robinson.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylSimon&GarfunkelTheSoundofSilence
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Simon & Garfunkel - The Sound of Silence.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylSimpleMindsDon'tYou(ForgetAboutMe)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Simple Minds - Don't You (Forget About Me).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylSmashMouthWalkinontheSun
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Smash Mouth - Walkin on the Sun.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylSmashingPumpkins1979
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Smashing Pumpkins - 1979.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylSmashingPumpkinsTonightTonight
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Smashing Pumpkins - Tonight Tonight.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylSoftCellTaintedLove
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Soft Cell - Tainted Love.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylSonicYouthTeenAgeRiot
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Sonic Youth - Teen Age Riot.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylSoundgardenBlackHoleSun
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Soundgarden - Black Hole Sun.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylSquealerHellcomeinHeaven
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Squealer - Hellcome in Heaven.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylStealersWheelStuckInTheMiddleWithYou
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Stealers Wheel - Stuck In The Middle With You.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylStoneTemplePilotsInterstateLoveSong
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Stone Temple Pilots - Interstate Love Song.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylSublimeWhatIGot
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Sublime - What I Got.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylSugarRayFly
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Sugar Ray - Fly.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylSusanneVegaTom'sDiner
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Susanne Vega - Tom's Diner.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTalkingHeadsBurningDowntheHouse
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Talking Heads - Burning Down the House.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTearsForFearsEverybodyWantsToRuleTheWorld
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Tears For Fears - Everybody Wants To Rule The World.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTearsforFearsHeadOverHeels
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Tears for Fears - Head Over Heels.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTheBeatlesComeTogether
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/The Beatles - Come Together.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTheBeatlesEleanorRigby
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/The Beatles - Eleanor Rigby.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTheBeatlesHelterSkelter
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/The Beatles - Helter Skelter.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTheChordettesMrSandman
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/The Chordettes - Mr. Sandman.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTheCranberriesLinger
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/The Cranberries - Linger.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTheCureFridayI'minLove
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/The Cure - Friday I'm in Love.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTheDoorsRidersOnTheStorm
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/The Doors - Riders On The Storm.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTheDoorsTheEnd
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/The Doors - The End.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTheInkSpotsIDon'tWanttoSettheWorldonFire
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/The Ink Spots - I Don't Want to Set the World on Fire.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTheJimiHendrixExperienceAllAlongTheWatchtower
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/The Jimi Hendrix Experience - All Along The Watchtower.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTheOakRidgeBoysLeavingLouisiana(IntheBraodDayLight)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/The Oak Ridge Boys - Leaving Louisiana (In the Braod Day Light).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylThePoliceEveryLittleThingSheDoesIsMagic
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/The Police - Every Little Thing She Does Is Magic.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylThePoliceRoxanne
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/The Police - Roxanne.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTheRunawaysCherryBomb
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/The Runaways - Cherry Bomb.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTheVelvetUndergroundSundayMorning
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/The Velvet Underground - Sunday Morning.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTheWallflowersOneHeadlight
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/The Wallflowers - One Headlight.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTLCWaterfalls
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/TLC - Waterfalls.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylToadtheWetSprocketWalkontheOcean
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Toad the Wet Sprocket - Walk on the Ocean.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTotoAfrica
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Toto - Africa.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylTotoHoldtheLine
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Toto - Hold the Line.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylVanHalenJump
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Van Halen - Jump.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylVelvetUndergroundPaleBlueEyes
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Velvet Underground - Pale Blue Eyes.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylVerticalHorizonYou'reaGod
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Vertical Horizon - You're a God.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylWeezerBuddyHolly
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Weezer - Buddy Holly.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylWhitneyHoustonIWannaDancewithSomebody
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Whitney Houston - I Wanna Dance with Somebody.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylWillSmithMeninBlackLyrics
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Will Smith - Men in Black Lyrics.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylZombieTheCranberries
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Zombie - The Cranberries.ogg,
+			distanceMax = 75,
+		}
+	}
+}
